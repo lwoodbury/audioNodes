@@ -4,7 +4,9 @@ Raspberry Pi based Smart Speaker Network designed to run Pure Data patches for s
 - small and fairly powerful with good audio quality (I2S 3W amplifier)
 - contains a Lipo battery and manages charging via USB micro
 - has a smart power switch (safe shutdown and power off)
-- everything shared here open source, the Raspberry Pi image *, laser cut designs, code and circuit designs. Go forth and prosper...
+- everything shared here under Creative Commons Attribution-ShareAlike 4.0 International License, the Raspberry Pi image *, laser cut designs, code and circuit designs. Go forth and prosper...
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
 The idea is to run audio nodes that can communicate with each other using OSC in PD and eventually add sensors and microphone input (and possibly some extra output functionality). The hardware is a development from my digital 'birds' installation: https://www.dotlib.org/home#/forest-of-imagination-2018/
 
