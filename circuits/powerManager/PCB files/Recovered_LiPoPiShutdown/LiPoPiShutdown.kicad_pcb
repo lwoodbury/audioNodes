@@ -1,0 +1,3984 @@
+(kicad_pcb (version 20240928)
+	(generator "gerbview")
+	(generator_version "9.0")
+
+	(layers 
+		(0 F.Cu signal)
+		(2 B.Cu signal)
+		(1 F.Mask user)
+		(3 B.Mask user)
+		(5 F.SilkS user)
+		(7 B.SilkS user)
+		(9 F.Adhes user)
+		(11 B.Adhes user)
+		(13 F.Paste user)
+		(15 B.Paste user)
+		(17 Dwgs.User user)
+		(19 Cmts.User user)
+		(21 Eco1.User user)
+		(23 Eco2.User user)
+		(25 Edge.Cuts user)
+		(27 Margin user)
+		(29 B.CrtYd user)
+		(31 F.CrtYd user)
+		(33 B.Fab user)
+		(35 F.Fab user)
+	)
+
+	(gr_line
+		(start 119.18 55.84) (end 154.52 55.84) (layer Edge.Cuts)
+		(stroke (width 0.05) (type solid))
+	)
+	(gr_line
+		(start 154.52 55.84) (end 154.52 75.32) (layer Edge.Cuts)
+		(stroke (width 0.05) (type solid))
+	)
+	(gr_line
+		(start 154.52 75.32) (end 119.18 75.32) (layer Edge.Cuts)
+		(stroke (width 0.05) (type solid))
+	)
+	(gr_line
+		(start 119.18 75.32) (end 119.18 55.84) (layer Edge.Cuts)
+		(stroke (width 0.05) (type solid))
+	)
+	(gr_line
+		(start 120.43722 71.1089) (end 120.05627 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 120.05627 71.1089) (end 120.05627 70.3089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 121.04674 70.57556) (end 121.04674 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 120.70388 70.57556) (end 120.70388 70.99461) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 120.70388 70.99461) (end 120.74198 71.0708) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 120.74198 71.0708) (end 120.81817 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 120.81817 71.1089) (end 120.93246 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 120.93246 71.1089) (end 121.00865 71.0708) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 121.00865 71.0708) (end 121.04674 71.0327) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 121.42769 71.1089) (end 121.42769 70.3089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 121.50388 70.80413) (end 121.73246 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 121.73246 70.57556) (end 121.42769 70.88032) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.38008 71.0708) (end 122.30388 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.30388 71.1089) (end 122.1515 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.1515 71.1089) (end 122.07531 71.0708) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.07531 71.0708) (end 122.03722 70.99461) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.03722 70.99461) (end 122.03722 70.68985) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.03722 70.68985) (end 122.07531 70.61366) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.07531 70.61366) (end 122.1515 70.57556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.1515 70.57556) (end 122.30388 70.57556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.30388 70.57556) (end 122.38008 70.61366) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.38008 70.61366) (end 122.41817 70.68985) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.41817 70.68985) (end 122.41817 70.76604) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.41817 70.76604) (end 122.03722 70.84223) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 123.29436 70.3089) (end 123.48484 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 123.48484 71.1089) (end 123.63722 70.53747) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 123.63722 70.53747) (end 123.7896 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 123.7896 71.1089) (end 123.98008 70.3089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.39912 71.1089) (end 124.32293 71.0708) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.32293 71.0708) (end 124.28484 71.0327) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.28484 71.0327) (end 124.24674 70.95651) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.24674 70.95651) (end 124.24674 70.72794) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.24674 70.72794) (end 124.28484 70.65175) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.28484 70.65175) (end 124.32293 70.61366) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.32293 70.61366) (end 124.39912 70.57556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.39912 70.57556) (end 124.51341 70.57556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.51341 70.57556) (end 124.5896 70.61366) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.5896 70.61366) (end 124.62769 70.65175) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.62769 70.65175) (end 124.66579 70.72794) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.66579 70.72794) (end 124.66579 70.95651) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.66579 70.95651) (end 124.62769 71.0327) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.62769 71.0327) (end 124.5896 71.0708) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.5896 71.0708) (end 124.51341 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.51341 71.1089) (end 124.39912 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.12293 71.1089) (end 125.04674 71.0708) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.04674 71.0708) (end 125.00865 71.0327) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.00865 71.0327) (end 124.97055 70.95651) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.97055 70.95651) (end 124.97055 70.72794) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.97055 70.72794) (end 125.00865 70.65175) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.00865 70.65175) (end 125.04674 70.61366) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.04674 70.61366) (end 125.12293 70.57556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.12293 70.57556) (end 125.23722 70.57556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.23722 70.57556) (end 125.31341 70.61366) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.31341 70.61366) (end 125.3515 70.65175) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.3515 70.65175) (end 125.3896 70.72794) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.3896 70.72794) (end 125.3896 70.95651) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.3896 70.95651) (end 125.3515 71.0327) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.3515 71.0327) (end 125.31341 71.0708) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.31341 71.0708) (end 125.23722 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.23722 71.1089) (end 125.12293 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.07531 71.1089) (end 126.07531 70.3089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.07531 71.0708) (end 125.99912 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.99912 71.1089) (end 125.84674 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.84674 71.1089) (end 125.77055 71.0708) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.77055 71.0708) (end 125.73246 71.0327) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.73246 71.0327) (end 125.69436 70.95651) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.69436 70.95651) (end 125.69436 70.72794) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.69436 70.72794) (end 125.73246 70.65175) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.73246 70.65175) (end 125.77055 70.61366) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.77055 70.61366) (end 125.84674 70.57556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.84674 70.57556) (end 125.99912 70.57556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.99912 70.57556) (end 126.07531 70.61366) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.45627 71.1089) (end 126.45627 70.3089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.45627 70.61366) (end 126.53246 70.57556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.53246 70.57556) (end 126.68484 70.57556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.68484 70.57556) (end 126.76103 70.61366) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.76103 70.61366) (end 126.79912 70.65175) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.79912 70.65175) (end 126.83722 70.72794) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.83722 70.72794) (end 126.83722 70.95651) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.83722 70.95651) (end 126.79912 71.0327) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.79912 71.0327) (end 126.76103 71.0708) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.76103 71.0708) (end 126.68484 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.68484 71.1089) (end 126.53246 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.53246 71.1089) (end 126.45627 71.0708) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.52293 70.57556) (end 127.52293 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.18008 70.57556) (end 127.18008 70.99461) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.18008 70.99461) (end 127.21817 71.0708) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.21817 71.0708) (end 127.29436 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.29436 71.1089) (end 127.40865 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.40865 71.1089) (end 127.48484 71.0708) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.48484 71.0708) (end 127.52293 71.0327) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.90389 71.1089) (end 127.90389 70.57556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.90389 70.72794) (end 127.94198 70.65175) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.94198 70.65175) (end 127.98008 70.61366) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.98008 70.61366) (end 128.05627 70.57556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 128.05627 70.57556) (end 128.13246 70.57556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 128.32293 70.57556) (end 128.51341 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 128.70389 70.57556) (end 128.51341 71.1089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 128.51341 71.1089) (end 128.43722 71.29937) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 128.43722 71.29937) (end 128.39913 71.33747) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 128.39913 71.33747) (end 128.32293 71.37556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 119.94198 71.5969) (end 120.20865 72.3969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 120.20865 72.3969) (end 120.47531 71.5969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 121.16103 72.3969) (end 120.70388 72.3969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 120.93246 72.3969) (end 120.93246 71.5969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 120.93246 71.5969) (end 120.85626 71.71118) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 120.85626 71.71118) (end 120.78007 71.78737) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 120.78007 71.78737) (end 120.70388 71.82547) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.07531 71.67309) (end 122.11341 71.63499) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.11341 71.63499) (end 122.1896 71.5969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.1896 71.5969) (end 122.38007 71.5969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.38007 71.5969) (end 122.45627 71.63499) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.45627 71.63499) (end 122.49436 71.67309) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.49436 71.67309) (end 122.53246 71.74928) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.53246 71.74928) (end 122.53246 71.82547) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.53246 71.82547) (end 122.49436 71.93975) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.49436 71.93975) (end 122.03722 72.3969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.03722 72.3969) (end 122.53246 72.3969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.91341 72.3969) (end 123.06579 72.3969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 123.06579 72.3969) (end 123.14198 72.3588) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 123.14198 72.3588) (end 123.18008 72.3207) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 123.18008 72.3207) (end 123.25627 72.20642) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 123.25627 72.20642) (end 123.29436 72.05404) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 123.29436 72.05404) (end 123.29436 71.74928) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 123.29436 71.74928) (end 123.25627 71.67309) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 123.25627 71.67309) (end 123.21817 71.63499) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 123.21817 71.63499) (end 123.14198 71.5969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 123.14198 71.5969) (end 122.9896 71.5969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.9896 71.5969) (end 122.91341 71.63499) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.91341 71.63499) (end 122.87531 71.67309) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.87531 71.67309) (end 122.83722 71.74928) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.83722 71.74928) (end 122.83722 71.93975) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.83722 71.93975) (end 122.87531 72.01594) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.87531 72.01594) (end 122.91341 72.05404) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.91341 72.05404) (end 122.9896 72.09213) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 122.9896 72.09213) (end 123.14198 72.09213) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 123.14198 72.09213) (end 123.21817 72.05404) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 123.21817 72.05404) (end 123.25627 72.01594) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 123.25627 72.01594) (end 123.29436 71.93975) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.20865 71.5588) (end 123.52293 72.58737) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.89436 72.3969) (end 124.43722 72.3969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.66579 72.3969) (end 124.66579 71.5969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.66579 71.5969) (end 124.5896 71.71118) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.5896 71.71118) (end 124.51341 71.78737) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 124.51341 71.78737) (end 124.43722 71.82547) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.65627 72.3969) (end 125.19912 72.3969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.42769 72.3969) (end 125.42769 71.5969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.42769 71.5969) (end 125.3515 71.71118) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.3515 71.71118) (end 125.27531 71.78737) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 125.27531 71.78737) (end 125.19912 71.82547) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.57055 71.5588) (end 125.88484 72.58737) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.79912 71.67309) (end 126.83722 71.63499) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.83722 71.63499) (end 126.91341 71.5969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.91341 71.5969) (end 127.10388 71.5969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.10388 71.5969) (end 127.18008 71.63499) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.18008 71.63499) (end 127.21817 71.67309) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.21817 71.67309) (end 127.25627 71.74928) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.25627 71.74928) (end 127.25627 71.82547) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.25627 71.82547) (end 127.21817 71.93975) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.21817 71.93975) (end 126.76103 72.3969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 126.76103 72.3969) (end 127.25627 72.3969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.94198 71.86356) (end 127.94198 72.3969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.7515 71.5588) (end 127.56103 72.13023) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 127.56103 72.13023) (end 128.05627 72.13023) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.62722 57.6089) (end 146.24627 57.6089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.24627 57.6089) (end 146.24627 56.8089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.89388 57.6089) (end 146.89388 57.07556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.89388 56.8089) (end 146.85579 56.84699) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.85579 56.84699) (end 146.89388 56.88509) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.89388 56.88509) (end 146.93198 56.84699) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.93198 56.84699) (end 146.89388 56.8089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.89388 56.8089) (end 146.89388 56.88509) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.27484 57.6089) (end 147.27484 56.8089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.27484 56.8089) (end 147.5796 56.8089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.5796 56.8089) (end 147.65579 56.84699) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.65579 56.84699) (end 147.69388 56.88509) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.69388 56.88509) (end 147.73198 56.96128) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.73198 56.96128) (end 147.73198 57.07556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.73198 57.07556) (end 147.69388 57.15175) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.69388 57.15175) (end 147.65579 57.18985) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.65579 57.18985) (end 147.5796 57.22794) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.5796 57.22794) (end 147.27484 57.22794) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.18912 57.6089) (end 148.11293 57.5708) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.11293 57.5708) (end 148.07484 57.5327) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.07484 57.5327) (end 148.03674 57.45651) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.03674 57.45651) (end 148.03674 57.22794) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.03674 57.22794) (end 148.07484 57.15175) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.07484 57.15175) (end 148.11293 57.11366) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.11293 57.11366) (end 148.18912 57.07556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.18912 57.07556) (end 148.30341 57.07556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.30341 57.07556) (end 148.3796 57.11366) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.3796 57.11366) (end 148.41769 57.15175) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.41769 57.15175) (end 148.45579 57.22794) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.45579 57.22794) (end 148.45579 57.45651) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.45579 57.45651) (end 148.41769 57.5327) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.41769 57.5327) (end 148.3796 57.5708) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.3796 57.5708) (end 148.30341 57.6089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.30341 57.6089) (end 148.18912 57.6089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.79865 57.6089) (end 148.79865 56.8089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.79865 56.8089) (end 149.10341 56.8089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.10341 56.8089) (end 149.1796 56.84699) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.1796 56.84699) (end 149.21769 56.88509) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.21769 56.88509) (end 149.25579 56.96128) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.25579 56.96128) (end 149.25579 57.07556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.25579 57.07556) (end 149.21769 57.15175) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.21769 57.15175) (end 149.1796 57.18985) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.1796 57.18985) (end 149.10341 57.22794) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.10341 57.22794) (end 148.79865 57.22794) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.59865 57.6089) (end 149.59865 57.07556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.59865 56.8089) (end 149.56055 56.84699) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.56055 56.84699) (end 149.59865 56.88509) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.59865 56.88509) (end 149.63674 56.84699) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.63674 56.84699) (end 149.59865 56.8089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.59865 56.8089) (end 149.59865 56.88509) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.55103 57.5708) (end 150.66531 57.6089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.66531 57.6089) (end 150.85579 57.6089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.85579 57.6089) (end 150.93198 57.5708) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.93198 57.5708) (end 150.97007 57.5327) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.97007 57.5327) (end 151.00817 57.45651) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.00817 57.45651) (end 151.00817 57.38032) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.00817 57.38032) (end 150.97007 57.30413) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.97007 57.30413) (end 150.93198 57.26604) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.93198 57.26604) (end 150.85579 57.22794) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.85579 57.22794) (end 150.70341 57.18985) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.70341 57.18985) (end 150.62722 57.15175) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.62722 57.15175) (end 150.58912 57.11366) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.58912 57.11366) (end 150.55103 57.03747) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.55103 57.03747) (end 150.55103 56.96128) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.55103 56.96128) (end 150.58912 56.88509) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.58912 56.88509) (end 150.62722 56.84699) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.62722 56.84699) (end 150.70341 56.8089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.70341 56.8089) (end 150.89388 56.8089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.89388 56.8089) (end 151.00817 56.84699) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.69388 57.6089) (end 151.69388 57.18985) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.69388 57.18985) (end 151.65579 57.11366) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.65579 57.11366) (end 151.5796 57.07556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.5796 57.07556) (end 151.42722 57.07556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.42722 57.07556) (end 151.35103 57.11366) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.69388 57.5708) (end 151.61769 57.6089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.61769 57.6089) (end 151.42722 57.6089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.42722 57.6089) (end 151.35103 57.5708) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.35103 57.5708) (end 151.31293 57.49461) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.31293 57.49461) (end 151.31293 57.41842) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.31293 57.41842) (end 151.35103 57.34223) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.35103 57.34223) (end 151.42722 57.30413) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.42722 57.30413) (end 151.61769 57.30413) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.61769 57.30413) (end 151.69388 57.26604) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.96055 57.07556) (end 152.26531 57.07556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 152.07484 57.6089) (end 152.07484 56.92318) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 152.07484 56.92318) (end 152.11293 56.84699) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 152.11293 56.84699) (end 152.18912 56.8089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 152.18912 56.8089) (end 152.26531 56.8089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 152.83674 57.5708) (end 152.76055 57.6089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 152.76055 57.6089) (end 152.60817 57.6089) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 152.60817 57.6089) (end 152.53198 57.5708) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 152.53198 57.5708) (end 152.49388 57.49461) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 152.49388 57.49461) (end 152.49388 57.18985) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 152.49388 57.18985) (end 152.53198 57.11366) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 152.53198 57.11366) (end 152.60817 57.07556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 152.60817 57.07556) (end 152.76055 57.07556) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 152.76055 57.07556) (end 152.83674 57.11366) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 152.83674 57.11366) (end 152.87484 57.18985) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 152.87484 57.18985) (end 152.87484 57.26604) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 152.87484 57.26604) (end 152.49388 57.34223) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.20817 58.8588) (end 146.32246 58.8969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.32246 58.8969) (end 146.51293 58.8969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.51293 58.8969) (end 146.58912 58.8588) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.58912 58.8588) (end 146.62722 58.8207) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.62722 58.8207) (end 146.66531 58.74451) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.66531 58.74451) (end 146.66531 58.66832) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.66531 58.66832) (end 146.62722 58.59213) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.62722 58.59213) (end 146.58912 58.55404) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.58912 58.55404) (end 146.51293 58.51594) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.51293 58.51594) (end 146.36055 58.47785) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.36055 58.47785) (end 146.28436 58.43975) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.28436 58.43975) (end 146.24627 58.40166) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.24627 58.40166) (end 146.20817 58.32547) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.20817 58.32547) (end 146.20817 58.24928) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.20817 58.24928) (end 146.24627 58.17309) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.24627 58.17309) (end 146.28436 58.13499) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.28436 58.13499) (end 146.36055 58.0969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.36055 58.0969) (end 146.55103 58.0969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 146.55103 58.0969) (end 146.66531 58.13499) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.00817 58.8969) (end 147.00817 58.0969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.35103 58.8969) (end 147.35103 58.47785) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.35103 58.47785) (end 147.31293 58.40166) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.31293 58.40166) (end 147.23674 58.36356) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.23674 58.36356) (end 147.12246 58.36356) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.12246 58.36356) (end 147.04627 58.40166) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.04627 58.40166) (end 147.00817 58.43975) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.07484 58.36356) (end 148.07484 58.8969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.73198 58.36356) (end 147.73198 58.78261) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.73198 58.78261) (end 147.77008 58.8588) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.77008 58.8588) (end 147.84627 58.8969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.84627 58.8969) (end 147.96055 58.8969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 147.96055 58.8969) (end 148.03674 58.8588) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.03674 58.8588) (end 148.07484 58.8207) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.3415 58.36356) (end 148.64627 58.36356) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.45579 58.0969) (end 148.45579 58.78261) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.45579 58.78261) (end 148.49389 58.8588) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.49389 58.8588) (end 148.57008 58.8969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.57008 58.8969) (end 148.64627 58.8969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.25579 58.8969) (end 149.25579 58.0969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.25579 58.8588) (end 149.1796 58.8969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.1796 58.8969) (end 149.02722 58.8969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.02722 58.8969) (end 148.95103 58.8588) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.95103 58.8588) (end 148.91293 58.8207) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.91293 58.8207) (end 148.87484 58.74451) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.87484 58.74451) (end 148.87484 58.51594) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.87484 58.51594) (end 148.91293 58.43975) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.91293 58.43975) (end 148.95103 58.40166) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 148.95103 58.40166) (end 149.02722 58.36356) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.02722 58.36356) (end 149.1796 58.36356) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.1796 58.36356) (end 149.25579 58.40166) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.75103 58.8969) (end 149.67484 58.8588) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.67484 58.8588) (end 149.63674 58.8207) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.63674 58.8207) (end 149.59865 58.74451) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.59865 58.74451) (end 149.59865 58.51594) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.59865 58.51594) (end 149.63674 58.43975) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.63674 58.43975) (end 149.67484 58.40166) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.67484 58.40166) (end 149.75103 58.36356) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.75103 58.36356) (end 149.86531 58.36356) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.86531 58.36356) (end 149.94151 58.40166) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.94151 58.40166) (end 149.9796 58.43975) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.9796 58.43975) (end 150.0177 58.51594) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.0177 58.51594) (end 150.0177 58.74451) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.0177 58.74451) (end 149.9796 58.8207) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.9796 58.8207) (end 149.94151 58.8588) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.94151 58.8588) (end 149.86531 58.8969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 149.86531 58.8969) (end 149.75103 58.8969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.28436 58.36356) (end 150.43674 58.8969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.43674 58.8969) (end 150.58912 58.51594) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.58912 58.51594) (end 150.74151 58.8969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 150.74151 58.8969) (end 150.89389 58.36356) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.19865 58.36356) (end 151.19865 58.8969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.19865 58.43975) (end 151.23674 58.40166) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.23674 58.40166) (end 151.31293 58.36356) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.31293 58.36356) (end 151.42722 58.36356) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.42722 58.36356) (end 151.50341 58.40166) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.50341 58.40166) (end 151.54151 58.47785) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 151.54151 58.47785) (end 151.54151 58.8969) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 140.8861 66.63333) (end 140.9242 66.67143) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.9242 66.67143) (end 140.9623 66.78571) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.9623 66.78571) (end 140.9623 66.8619) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.9623 66.8619) (end 140.9242 66.97619) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.9242 66.97619) (end 140.84801 67.05238) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.84801 67.05238) (end 140.77182 67.09048) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.77182 67.09048) (end 140.61944 67.12857) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.61944 67.12857) (end 140.50515 67.12857) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.50515 67.12857) (end 140.35277 67.09048) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.35277 67.09048) (end 140.27658 67.05238) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.27658 67.05238) (end 140.20039 66.97619) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.20039 66.97619) (end 140.1623 66.8619) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.1623 66.8619) (end 140.1623 66.78571) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.1623 66.78571) (end 140.20039 66.67143) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.20039 66.67143) (end 140.23849 66.63333) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.9623 65.87143) (end 140.9623 66.32857) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.9623 66.1) (end 140.1623 66.1) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.1623 66.1) (end 140.27658 66.17619) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.27658 66.17619) (end 140.35277 66.25238) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 140.35277 66.25238) (end 140.39087 66.32857) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 133.95482 67.21809) (end 132.95482 67.21809) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 132.95482 67.21809) (end 132.95482 66.98) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 132.95482 66.98) (end 133.00244 66.83714) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 133.00244 66.83714) (end 133.09768 66.7419) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 133.09768 66.7419) (end 133.19291 66.69429) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 133.19291 66.69429) (end 133.38339 66.64667) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 133.38339 66.64667) (end 133.52625 66.64667) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 133.52625 66.64667) (end 133.71672 66.69429) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 133.71672 66.69429) (end 133.81196 66.7419) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 133.81196 66.7419) (end 133.9072 66.83714) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 133.9072 66.83714) (end 133.95482 66.98) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 133.95482 66.98) (end 133.95482 67.21809) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 133.95482 65.69429) (end 133.95482 66.26571) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 133.95482 65.98) (end 132.95482 65.98) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 132.95482 65.98) (end 133.09768 66.07524) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 133.09768 66.07524) (end 133.19291 66.17048) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 133.19291 66.17048) (end 133.24053 66.26571) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 122.05482 65.13333) (end 122.7691 65.13333) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 122.7691 65.13333) (end 122.91196 65.18095) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 122.91196 65.18095) (end 123.0072 65.27619) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 123.0072 65.27619) (end 123.05482 65.41905) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 123.05482 65.41905) (end 123.05482 65.51429) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 123.05482 64.13333) (end 123.05482 64.70476) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 123.05482 64.41905) (end 122.05482 64.41905) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 122.05482 64.41905) (end 122.19768 64.51429) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 122.19768 64.51429) (end 122.29291 64.60952) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 122.29291 64.60952) (end 122.34053 64.70476) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 150.85482 65.23333) (end 151.5691 65.23333) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 151.5691 65.23333) (end 151.71196 65.28095) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 151.71196 65.28095) (end 151.8072 65.37619) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 151.8072 65.37619) (end 151.85482 65.51905) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 151.85482 65.51905) (end 151.85482 65.61429) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 150.95006 64.80476) (end 150.90244 64.75714) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 150.90244 64.75714) (end 150.85482 64.6619) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 150.85482 64.6619) (end 150.85482 64.42381) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 150.85482 64.42381) (end 150.90244 64.32857) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 150.90244 64.32857) (end 150.95006 64.28095) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 150.95006 64.28095) (end 151.0453 64.23333) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 151.0453 64.23333) (end 151.14053 64.23333) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 151.14053 64.23333) (end 151.28339 64.28095) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 151.28339 64.28095) (end 151.85482 64.85238) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 151.85482 64.85238) (end 151.85482 64.23333) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 131.23333 58.75482) (end 130.9 58.27863) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 130.66191 58.75482) (end 130.66191 57.75482) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 130.66191 57.75482) (end 131.04286 57.75482) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 131.04286 57.75482) (end 131.1381 57.80244) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 131.1381 57.80244) (end 131.18571 57.85006) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 131.18571 57.85006) (end 131.23333 57.9453) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 131.23333 57.9453) (end 131.23333 58.08815) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 131.23333 58.08815) (end 131.18571 58.18339) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 131.18571 58.18339) (end 131.1381 58.23101) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 131.1381 58.23101) (end 131.04286 58.27863) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 131.04286 58.27863) (end 130.66191 58.27863) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 132.18571 58.75482) (end 131.61429 58.75482) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 131.9 58.75482) (end 131.9 57.75482) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 131.9 57.75482) (end 131.80476 57.89768) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 131.80476 57.89768) (end 131.70952 57.99291) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 131.70952 57.99291) (end 131.61429 58.04053) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 130.45482 66.94667) (end 129.97863 67.28) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 130.45482 67.51809) (end 129.45482 67.51809) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 129.45482 67.51809) (end 129.45482 67.13714) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 129.45482 67.13714) (end 129.50244 67.0419) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 129.50244 67.0419) (end 129.55006 66.99429) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 129.55006 66.99429) (end 129.6453 66.94667) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 129.6453 66.94667) (end 129.78815 66.94667) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 129.78815 66.94667) (end 129.88339 66.99429) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 129.88339 66.99429) (end 129.93101 67.0419) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 129.93101 67.0419) (end 129.97863 67.13714) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 129.97863 67.13714) (end 129.97863 67.51809) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 129.55006 66.56571) (end 129.50244 66.51809) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 129.50244 66.51809) (end 129.45482 66.42286) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 129.45482 66.42286) (end 129.45482 66.18476) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 129.45482 66.18476) (end 129.50244 66.08952) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 129.50244 66.08952) (end 129.55006 66.0419) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 129.55006 66.0419) (end 129.6453 65.99429) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 129.6453 65.99429) (end 129.74053 65.99429) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 129.74053 65.99429) (end 129.88339 66.0419) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 129.88339 66.0419) (end 130.45482 66.61333) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 130.45482 66.61333) (end 130.45482 65.99429) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 144.93333 72.45482) (end 144.6 71.97863) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 144.36191 72.45482) (end 144.36191 71.45482) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 144.36191 71.45482) (end 144.74286 71.45482) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 144.74286 71.45482) (end 144.8381 71.50244) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 144.8381 71.50244) (end 144.88571 71.55006) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 144.88571 71.55006) (end 144.93333 71.6453) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 144.93333 71.6453) (end 144.93333 71.78815) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 144.93333 71.78815) (end 144.88571 71.88339) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 144.88571 71.88339) (end 144.8381 71.93101) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 144.8381 71.93101) (end 144.74286 71.97863) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 144.74286 71.97863) (end 144.36191 71.97863) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 145.26667 71.45482) (end 145.88571 71.45482) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 145.88571 71.45482) (end 145.55238 71.83577) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 145.55238 71.83577) (end 145.69524 71.83577) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 145.69524 71.83577) (end 145.79048 71.88339) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 145.79048 71.88339) (end 145.8381 71.93101) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 145.8381 71.93101) (end 145.88571 72.02625) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 145.88571 72.02625) (end 145.88571 72.26434) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 145.88571 72.26434) (end 145.8381 72.35958) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 145.8381 72.35958) (end 145.79048 72.4072) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 145.79048 72.4072) (end 145.69524 72.45482) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 145.69524 72.45482) (end 145.40952 72.45482) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 145.40952 72.45482) (end 145.31429 72.4072) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 145.31429 72.4072) (end 145.26667 72.35958) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 137.35482 67.14667) (end 136.87863 67.48) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 137.35482 67.71809) (end 136.35482 67.71809) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 136.35482 67.71809) (end 136.35482 67.33714) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 136.35482 67.33714) (end 136.40244 67.2419) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 136.40244 67.2419) (end 136.45006 67.19429) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 136.45006 67.19429) (end 136.5453 67.14667) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 136.5453 67.14667) (end 136.68815 67.14667) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 136.68815 67.14667) (end 136.78339 67.19429) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 136.78339 67.19429) (end 136.83101 67.2419) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 136.83101 67.2419) (end 136.87863 67.33714) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 136.87863 67.33714) (end 136.87863 67.71809) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 136.68815 66.28952) (end 137.35482 66.28952) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 136.3072 66.52762) (end 137.02149 66.76571) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 137.02149 66.76571) (end 137.02149 66.14667) (layer F.SilkS)
+		(stroke (width 0.15) (type solid))
+	)
+	(gr_line
+		(start 139.13333 57.9268) (end 139.24762 57.9649) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.24762 57.9649) (end 139.43809 57.9649) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.43809 57.9649) (end 139.51429 57.9268) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.51429 57.9268) (end 139.55238 57.8887) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.55238 57.8887) (end 139.59048 57.81251) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.59048 57.81251) (end 139.59048 57.73632) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.59048 57.73632) (end 139.55238 57.66013) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.55238 57.66013) (end 139.51429 57.62204) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.51429 57.62204) (end 139.43809 57.58394) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.43809 57.58394) (end 139.28571 57.54585) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.28571 57.54585) (end 139.20952 57.50775) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.20952 57.50775) (end 139.17143 57.46966) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.17143 57.46966) (end 139.13333 57.39347) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.13333 57.39347) (end 139.13333 57.31728) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.13333 57.31728) (end 139.17143 57.24109) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.17143 57.24109) (end 139.20952 57.20299) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.20952 57.20299) (end 139.28571 57.1649) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.28571 57.1649) (end 139.47619 57.1649) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.47619 57.1649) (end 139.59048 57.20299) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 139.85714 57.1649) (end 140.04762 57.9649) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 140.04762 57.9649) (end 140.2 57.39347) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 140.2 57.39347) (end 140.35238 57.9649) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 140.35238 57.9649) (end 140.54286 57.1649) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 141.26667 57.9649) (end 140.80952 57.9649) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 141.0381 57.9649) (end 141.0381 57.1649) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 141.0381 57.1649) (end 140.9619 57.27918) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 140.9619 57.27918) (end 140.88571 57.35537) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 140.88571 57.35537) (end 140.80952 57.39347) (layer F.SilkS)
+		(stroke (width 0.1) (type solid))
+	)
+	(gr_line
+		(start 143.675 64.59523) (end 143.675 65.09523) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.925 64.84523) (end 143.425 64.84523) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.78 67.4) (end 143.24 67.4) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 67.4) (end 139.62 67.4) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.78 67.44) (end 143.24 67.44) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 67.44) (end 139.62 67.44) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.779 67.48) (end 143.24 67.48) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 67.48) (end 139.621 67.48) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.778 67.52) (end 143.24 67.52) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 67.52) (end 139.622 67.52) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.776 67.56) (end 143.24 67.56) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 67.56) (end 139.624 67.56) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.773 67.6) (end 143.24 67.6) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 67.6) (end 139.627 67.6) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.769 67.64) (end 143.24 67.64) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 67.64) (end 139.631 67.64) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.765 67.68) (end 143.24 67.68) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 67.68) (end 139.635 67.68) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.761 67.72) (end 143.24 67.72) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 67.72) (end 139.639 67.72) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.756 67.76) (end 143.24 67.76) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 67.76) (end 139.644 67.76) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.75 67.8) (end 143.24 67.8) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 67.8) (end 139.65 67.8) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.743 67.84) (end 143.24 67.84) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 67.84) (end 139.657 67.84) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.736 67.88) (end 143.24 67.88) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 67.88) (end 139.664 67.88) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.728 67.92) (end 143.24 67.92) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 67.92) (end 139.672 67.92) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.72 67.96) (end 143.24 67.96) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 67.96) (end 139.68 67.96) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.711 68) (end 143.24 68) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68) (end 139.689 68) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.701 68.04) (end 143.24 68.04) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.04) (end 139.699 68.04) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.691 68.08) (end 143.24 68.08) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.08) (end 139.709 68.08) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.68 68.121) (end 143.24 68.121) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.121) (end 139.72 68.121) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.668 68.161) (end 143.24 68.161) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.161) (end 139.732 68.161) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.655 68.201) (end 143.24 68.201) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.201) (end 139.745 68.201) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.642 68.241) (end 143.24 68.241) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.241) (end 139.758 68.241) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.628 68.281) (end 143.24 68.281) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.281) (end 139.772 68.281) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.614 68.321) (end 143.24 68.321) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.321) (end 139.786 68.321) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.598 68.361) (end 143.24 68.361) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.361) (end 139.802 68.361) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.582 68.401) (end 143.24 68.401) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.401) (end 139.818 68.401) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.565 68.441) (end 143.24 68.441) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.441) (end 139.835 68.441) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.548 68.481) (end 143.24 68.481) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.481) (end 139.852 68.481) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.529 68.521) (end 143.24 68.521) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.521) (end 139.871 68.521) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.51 68.561) (end 143.24 68.561) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.561) (end 139.89 68.561) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.49 68.601) (end 143.24 68.601) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.601) (end 139.91 68.601) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.468 68.641) (end 143.24 68.641) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.641) (end 139.932 68.641) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.447 68.681) (end 143.24 68.681) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.681) (end 139.953 68.681) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.424 68.721) (end 143.24 68.721) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.721) (end 139.976 68.721) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.4 68.761) (end 143.24 68.761) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.761) (end 140 68.761) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.375 68.801) (end 143.24 68.801) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.801) (end 140.025 68.801) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.349 68.841) (end 143.24 68.841) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.841) (end 140.051 68.841) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.322 68.881) (end 143.24 68.881) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.881) (end 140.078 68.881) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.295 68.921) (end 143.24 68.921) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.921) (end 140.105 68.921) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.265 68.961) (end 143.24 68.961) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 68.961) (end 140.135 68.961) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.235 69.001) (end 143.24 69.001) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 69.001) (end 140.165 69.001) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.204 69.041) (end 143.24 69.041) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 69.041) (end 140.196 69.041) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.171 69.081) (end 143.24 69.081) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 69.081) (end 140.229 69.081) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.137 69.121) (end 143.24 69.121) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 69.121) (end 140.263 69.121) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.101 69.161) (end 143.24 69.161) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 69.161) (end 140.299 69.161) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.064 69.201) (end 143.24 69.201) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 69.201) (end 140.336 69.201) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.026 69.241) (end 143.24 69.241) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 69.241) (end 140.374 69.241) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.985 69.281) (end 143.24 69.281) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 69.281) (end 140.415 69.281) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.943 69.321) (end 143.24 69.321) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 69.321) (end 140.457 69.321) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.899 69.361) (end 143.24 69.361) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 69.361) (end 140.501 69.361) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.853 69.401) (end 143.24 69.401) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.16 69.401) (end 140.547 69.401) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.805 69.441) (end 140.595 69.441) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.754 69.481) (end 140.646 69.481) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.7 69.521) (end 140.7 69.521) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.643 69.561) (end 140.757 69.561) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.583 69.601) (end 140.817 69.601) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.519 69.641) (end 140.881 69.641) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.451 69.681) (end 140.949 69.681) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.378 69.721) (end 141.022 69.721) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.298 69.761) (end 141.102 69.761) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.211 69.801) (end 141.189 69.801) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.115 69.841) (end 141.285 69.841) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.005 69.881) (end 141.395 69.881) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 142.877 69.921) (end 141.523 69.921) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 142.718 69.961) (end 141.682 69.961) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 142.484 70.001) (end 141.916 70.001) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_arc
+		(start 144.82 67.4) (mid 142.2 64.78) (end 139.58 67.4) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_arc
+		(start 139.58 67.4) (mid 142.2 70.02) (end 144.82 67.4) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 133.4 70.52) (end 133.4 69.5) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 131.93 69.5) (end 134.87 69.5) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 134.87 69.5) (end 134.87 64.06) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 131.93 68.72) (end 134.87 68.72) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 131.93 68.6) (end 134.87 68.6) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 131.93 68.48) (end 134.87 68.48) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 131.93 64.06) (end 131.93 69.5) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 134.87 64.06) (end 131.93 64.06) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 133.4 63.04) (end 133.4 64.06) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 127.56 60.94) (end 119.74 60.94) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 125.96 60.94) (end 125.96 61.86) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 119.74 60.94) (end 119.74 69.06) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 123.6 61.7) (end 122 61.7) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 122 61.7) (end 122 62.7) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 127.56 61.86) (end 127.56 60.94) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 125.96 61.86) (end 127.56 61.86) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 125.96 62.14) (end 125.96 61.86) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 125.96 62.14) (end 127.175 62.14) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 122 62.2) (end 119.74 62.2) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 123.6 62.7) (end 123.6 61.7) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 122 62.7) (end 123.6 62.7) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 122 62.7) (end 119.74 62.7) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 124.1 63.5) (end 124.1 66.5) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 119.74 63.5) (end 124.1 63.5) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 124.1 66.5) (end 119.74 66.5) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 123.6 67.3) (end 123.6 68.3) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 122 67.3) (end 123.6 67.3) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 127.56 68.14) (end 125.96 68.14) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 125.96 68.14) (end 125.96 67.86) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 123.6 68.3) (end 122 68.3) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 122 68.3) (end 122 67.3) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 127.56 69.06) (end 127.56 68.14) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 125.96 69.06) (end 125.96 68.14) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 119.74 69.06) (end 127.56 69.06) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 145.99 69.76) (end 153.81 69.76) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 147.59 69.76) (end 147.59 68.84) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 153.81 69.76) (end 153.81 59.64) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 149.95 69) (end 151.55 69) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 151.55 69) (end 151.55 68) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 145.99 68.84) (end 145.99 69.76) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 147.59 68.84) (end 145.99 68.84) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 147.59 68.56) (end 147.59 68.84) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 147.59 68.56) (end 146.375 68.56) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 151.55 68.5) (end 153.81 68.5) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 149.95 68) (end 149.95 69) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 151.55 68) (end 149.95 68) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 151.55 68) (end 153.81 68) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 149.45 67.2) (end 149.45 62.2) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 153.81 67.2) (end 149.45 67.2) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 149.45 62.2) (end 153.81 62.2) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 149.95 61.4) (end 149.95 60.4) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 151.55 61.4) (end 149.95 61.4) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 145.99 60.56) (end 147.59 60.56) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 147.59 60.56) (end 147.59 60.84) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 149.95 60.4) (end 151.55 60.4) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 151.55 60.4) (end 151.55 61.4) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 145.99 59.64) (end 145.99 60.56) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 147.59 59.64) (end 147.59 60.56) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 153.81 59.64) (end 145.99 59.64) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 135.14 58.3) (end 134.37 58.3) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 134.37 59.67) (end 134.37 56.93) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 134.37 56.93) (end 127.83 56.93) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 127.83 59.67) (end 134.37 59.67) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 127.83 56.93) (end 127.83 59.67) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 127.06 58.3) (end 127.83 58.3) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 130 62.74) (end 130 63.51) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 131.37 63.51) (end 128.63 63.51) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 128.63 63.51) (end 128.63 70.05) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 131.37 70.05) (end 131.37 63.51) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 128.63 70.05) (end 131.37 70.05) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 130 70.82) (end 130 70.05) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 149.14 71.9) (end 148.37 71.9) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 148.37 73.27) (end 148.37 70.53) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 148.37 70.53) (end 141.83 70.53) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.83 73.27) (end 148.37 73.27) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.83 70.53) (end 141.83 73.27) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.06 71.9) (end 141.83 71.9) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 136.8 62.94) (end 136.8 63.71) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 138.17 63.71) (end 135.43 63.71) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 135.43 63.71) (end 135.43 70.25) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 138.17 70.25) (end 138.17 63.71) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 135.43 70.25) (end 138.17 70.25) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 136.8 71.02) (end 136.8 70.25) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.96 64.21) (end 144.96 56.39) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.96 62.61) (end 144.04 62.61) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.96 56.39) (end 138.84 56.39) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.2 60.25) (end 144.2 58.65) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.2 58.65) (end 143.2 58.65) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.04 64.21) (end 144.96 64.21) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 144.04 62.61) (end 144.04 64.21) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.76 62.61) (end 144.04 62.61) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.76 62.61) (end 143.76 63.825) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.7 58.65) (end 143.7 56.39) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.2 60.25) (end 144.2 60.25) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.2 58.65) (end 143.2 60.25) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 143.2 58.65) (end 143.2 56.39) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 142.4 60.75) (end 141.4 60.75) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 142.4 56.39) (end 142.4 60.75) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 141.4 60.75) (end 141.4 56.39) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 140.6 60.25) (end 139.6 60.25) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 140.6 58.65) (end 140.6 60.25) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 139.76 64.21) (end 139.76 62.61) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 139.76 62.61) (end 140.04 62.61) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 139.6 60.25) (end 139.6 58.65) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 139.6 58.65) (end 140.6 58.65) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 138.84 64.21) (end 139.76 64.21) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 138.84 62.61) (end 139.76 62.61) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_line
+		(start 138.84 56.39) (end 138.84 64.21) (layer F.SilkS)
+		(stroke (width 0.12) (type solid))
+	)
+	(gr_poly
+		(pts
+			 (xy 143 67.2) (xy 141.4 67.2) (xy 141.4 65.6)
+			 (xy 143 65.6))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_circle
+		(center 142.2 68.4) (end 143 68.4)
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 134.5 72.96) (xy 132.3 72.96) (xy 132.3 70.76)
+			 (xy 134.5 70.76))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 133.50782 60.6053) (xy 133.6146 60.62114) (xy 133.71931 60.64737)
+			 (xy 133.82095 60.68373) (xy 133.91854 60.72989) (xy 134.01113 60.78538) (xy 134.09783 60.84969)
+			 (xy 134.17782 60.92218) (xy 134.25031 61.00217) (xy 134.31462 61.08887) (xy 134.37011 61.18146)
+			 (xy 134.41627 61.27905) (xy 134.45263 61.38069) (xy 134.47886 61.4854) (xy 134.4947 61.59218)
+			 (xy 134.5 61.7) (xy 134.4947 61.80782) (xy 134.47886 61.9146) (xy 134.45263 62.01931)
+			 (xy 134.41627 62.12095) (xy 134.37011 62.21854) (xy 134.31462 62.31113) (xy 134.25031 62.39783)
+			 (xy 134.17782 62.47782) (xy 134.09783 62.55031) (xy 134.01113 62.61462) (xy 133.91854 62.67011)
+			 (xy 133.82095 62.71627) (xy 133.71931 62.75263) (xy 133.6146 62.77886) (xy 133.50782 62.7947)
+			 (xy 133.4 62.8) (xy 133.29218 62.7947) (xy 133.1854 62.77886) (xy 133.08069 62.75263)
+			 (xy 132.97905 62.71627) (xy 132.88146 62.67011) (xy 132.78887 62.61462) (xy 132.70217 62.55031)
+			 (xy 132.62218 62.47782) (xy 132.54969 62.39783) (xy 132.48538 62.31113) (xy 132.42989 62.21854)
+			 (xy 132.38373 62.12095) (xy 132.34737 62.01931) (xy 132.32114 61.9146) (xy 132.3053 61.80782)
+			 (xy 132.3 61.7) (xy 132.3053 61.59218) (xy 132.32114 61.4854) (xy 132.34737 61.38069)
+			 (xy 132.38373 61.27905) (xy 132.42989 61.18146) (xy 132.48538 61.08887) (xy 132.54969 61.00217)
+			 (xy 132.62218 60.92218) (xy 132.70217 60.84969) (xy 132.78887 60.78538) (xy 132.88146 60.72989)
+			 (xy 132.97905 60.68373) (xy 133.08069 60.64737) (xy 133.1854 60.62114) (xy 133.29218 60.6053)
+			 (xy 133.4 60.6))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 126.7495 63.5988) (xy 126.77377 63.5952) (xy 126.79757 63.58924)
+			 (xy 126.82067 63.58097) (xy 126.84285 63.57048) (xy 126.86389 63.55787) (xy 126.8836 63.54325)
+			 (xy 126.90178 63.52678) (xy 126.91825 63.5086) (xy 126.93287 63.48889) (xy 126.94548 63.46785)
+			 (xy 126.95597 63.44567) (xy 126.96424 63.42257) (xy 126.9702 63.39877) (xy 126.9738 63.3745)
+			 (xy 126.975 63.35) (xy 126.975 62.65) (xy 126.9738 62.6255) (xy 126.9702 62.60123)
+			 (xy 126.96424 62.57743) (xy 126.95597 62.55433) (xy 126.94548 62.53215) (xy 126.93287 62.51111)
+			 (xy 126.91825 62.4914) (xy 126.90178 62.47322) (xy 126.8836 62.45675) (xy 126.86389 62.44213)
+			 (xy 126.84285 62.42952) (xy 126.82067 62.41903) (xy 126.79757 62.41076) (xy 126.77377 62.4048)
+			 (xy 126.7495 62.4012) (xy 126.725 62.4) (xy 125.475 62.4) (xy 125.4505 62.4012)
+			 (xy 125.42623 62.4048) (xy 125.40243 62.41076) (xy 125.37933 62.41903) (xy 125.35715 62.42952)
+			 (xy 125.33611 62.44213) (xy 125.3164 62.45675) (xy 125.29822 62.47322) (xy 125.28175 62.4914)
+			 (xy 125.26713 62.51111) (xy 125.25452 62.53215) (xy 125.24403 62.55433) (xy 125.23576 62.57743)
+			 (xy 125.2298 62.60123) (xy 125.2262 62.6255) (xy 125.225 62.65) (xy 125.225 63.35)
+			 (xy 125.2262 63.3745) (xy 125.2298 63.39877) (xy 125.23576 63.42257) (xy 125.24403 63.44567)
+			 (xy 125.25452 63.46785) (xy 125.26713 63.48889) (xy 125.28175 63.5086) (xy 125.29822 63.52678)
+			 (xy 125.3164 63.54325) (xy 125.33611 63.55787) (xy 125.35715 63.57048) (xy 125.37933 63.58097)
+			 (xy 125.40243 63.58924) (xy 125.42623 63.5952) (xy 125.4505 63.5988) (xy 125.475 63.6)
+			 (xy 126.725 63.6))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 126.43381 64.40289) (xy 126.49205 64.41153) (xy 126.54917 64.42584)
+			 (xy 126.60461 64.44567) (xy 126.65784 64.47085) (xy 126.70834 64.50112) (xy 126.75564 64.53619)
+			 (xy 126.79926 64.57574) (xy 126.83881 64.61936) (xy 126.87388 64.66666) (xy 126.90415 64.71716)
+			 (xy 126.92933 64.77039) (xy 126.94916 64.82583) (xy 126.96347 64.88295) (xy 126.97211 64.94119)
+			 (xy 126.975 65) (xy 126.97211 65.05881) (xy 126.96347 65.11705) (xy 126.94916 65.17417)
+			 (xy 126.92933 65.22961) (xy 126.90415 65.28284) (xy 126.87388 65.33334) (xy 126.83881 65.38064)
+			 (xy 126.79926 65.42426) (xy 126.75564 65.46381) (xy 126.70834 65.49888) (xy 126.65784 65.52915)
+			 (xy 126.60461 65.55433) (xy 126.54917 65.57416) (xy 126.49205 65.58847) (xy 126.43381 65.59711)
+			 (xy 126.375 65.6) (xy 126.1 65.6) (xy 125.825 65.6) (xy 125.76619 65.59711)
+			 (xy 125.70795 65.58847) (xy 125.65083 65.57416) (xy 125.59539 65.55433) (xy 125.54216 65.52915)
+			 (xy 125.49166 65.49888) (xy 125.44436 65.46381) (xy 125.40074 65.42426) (xy 125.36119 65.38064)
+			 (xy 125.32612 65.33334) (xy 125.29585 65.28284) (xy 125.27067 65.22961) (xy 125.25084 65.17417)
+			 (xy 125.23653 65.11705) (xy 125.22789 65.05881) (xy 125.225 65) (xy 125.22789 64.94119)
+			 (xy 125.23653 64.88295) (xy 125.25084 64.82583) (xy 125.27067 64.77039) (xy 125.29585 64.71716)
+			 (xy 125.32612 64.66666) (xy 125.36119 64.61936) (xy 125.40074 64.57574) (xy 125.44436 64.53619)
+			 (xy 125.49166 64.50112) (xy 125.54216 64.47085) (xy 125.59539 64.44567) (xy 125.65083 64.42584)
+			 (xy 125.70795 64.41153) (xy 125.76619 64.40289) (xy 125.825 64.4) (xy 126.375 64.4))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 126.43381 66.40289) (xy 126.49205 66.41153) (xy 126.54917 66.42584)
+			 (xy 126.60461 66.44567) (xy 126.65784 66.47085) (xy 126.70834 66.50112) (xy 126.75564 66.53619)
+			 (xy 126.79926 66.57574) (xy 126.83881 66.61936) (xy 126.87388 66.66666) (xy 126.90415 66.71716)
+			 (xy 126.92933 66.77039) (xy 126.94916 66.82583) (xy 126.96347 66.88295) (xy 126.97211 66.94119)
+			 (xy 126.975 67) (xy 126.97211 67.05881) (xy 126.96347 67.11705) (xy 126.94916 67.17417)
+			 (xy 126.92933 67.22961) (xy 126.90415 67.28284) (xy 126.87388 67.33334) (xy 126.83881 67.38064)
+			 (xy 126.79926 67.42426) (xy 126.75564 67.46381) (xy 126.70834 67.49888) (xy 126.65784 67.52915)
+			 (xy 126.60461 67.55433) (xy 126.54917 67.57416) (xy 126.49205 67.58847) (xy 126.43381 67.59711)
+			 (xy 126.375 67.6) (xy 126.1 67.6) (xy 125.825 67.6) (xy 125.76619 67.59711)
+			 (xy 125.70795 67.58847) (xy 125.65083 67.57416) (xy 125.59539 67.55433) (xy 125.54216 67.52915)
+			 (xy 125.49166 67.49888) (xy 125.44436 67.46381) (xy 125.40074 67.42426) (xy 125.36119 67.38064)
+			 (xy 125.32612 67.33334) (xy 125.29585 67.28284) (xy 125.27067 67.22961) (xy 125.25084 67.17417)
+			 (xy 125.23653 67.11705) (xy 125.22789 67.05881) (xy 125.225 67) (xy 125.22789 66.94119)
+			 (xy 125.23653 66.88295) (xy 125.25084 66.82583) (xy 125.27067 66.77039) (xy 125.29585 66.71716)
+			 (xy 125.32612 66.66666) (xy 125.36119 66.61936) (xy 125.40074 66.57574) (xy 125.44436 66.53619)
+			 (xy 125.49166 66.50112) (xy 125.54216 66.47085) (xy 125.59539 66.44567) (xy 125.65083 66.42584)
+			 (xy 125.70795 66.41153) (xy 125.76619 66.40289) (xy 125.825 66.4) (xy 126.375 66.4))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 148.0995 68.2988) (xy 148.12377 68.2952) (xy 148.14757 68.28924)
+			 (xy 148.17067 68.28097) (xy 148.19285 68.27048) (xy 148.21389 68.25787) (xy 148.2336 68.24325)
+			 (xy 148.25178 68.22678) (xy 148.26825 68.2086) (xy 148.28287 68.18889) (xy 148.29548 68.16785)
+			 (xy 148.30597 68.14567) (xy 148.31424 68.12257) (xy 148.3202 68.09877) (xy 148.3238 68.0745)
+			 (xy 148.325 68.05) (xy 148.325 67.35) (xy 148.3238 67.3255) (xy 148.3202 67.30123)
+			 (xy 148.31424 67.27743) (xy 148.30597 67.25433) (xy 148.29548 67.23215) (xy 148.28287 67.21111)
+			 (xy 148.26825 67.1914) (xy 148.25178 67.17322) (xy 148.2336 67.15675) (xy 148.21389 67.14213)
+			 (xy 148.19285 67.12952) (xy 148.17067 67.11903) (xy 148.14757 67.11076) (xy 148.12377 67.1048)
+			 (xy 148.0995 67.1012) (xy 148.075 67.1) (xy 146.825 67.1) (xy 146.8005 67.1012)
+			 (xy 146.77623 67.1048) (xy 146.75243 67.11076) (xy 146.72933 67.11903) (xy 146.70715 67.12952)
+			 (xy 146.68611 67.14213) (xy 146.6664 67.15675) (xy 146.64822 67.17322) (xy 146.63175 67.1914)
+			 (xy 146.61713 67.21111) (xy 146.60452 67.23215) (xy 146.59403 67.25433) (xy 146.58576 67.27743)
+			 (xy 146.5798 67.30123) (xy 146.5762 67.3255) (xy 146.575 67.35) (xy 146.575 68.05)
+			 (xy 146.5762 68.0745) (xy 146.5798 68.09877) (xy 146.58576 68.12257) (xy 146.59403 68.14567)
+			 (xy 146.60452 68.16785) (xy 146.61713 68.18889) (xy 146.63175 68.2086) (xy 146.64822 68.22678)
+			 (xy 146.6664 68.24325) (xy 146.68611 68.25787) (xy 146.70715 68.27048) (xy 146.72933 68.28097)
+			 (xy 146.75243 68.28924) (xy 146.77623 68.2952) (xy 146.8005 68.2988) (xy 146.825 68.3)
+			 (xy 148.075 68.3))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 147.78381 65.10289) (xy 147.84205 65.11153) (xy 147.89917 65.12584)
+			 (xy 147.95461 65.14567) (xy 148.00784 65.17085) (xy 148.05834 65.20112) (xy 148.10564 65.23619)
+			 (xy 148.14926 65.27574) (xy 148.18881 65.31936) (xy 148.22388 65.36666) (xy 148.25415 65.41716)
+			 (xy 148.27933 65.47039) (xy 148.29916 65.52583) (xy 148.31347 65.58295) (xy 148.32211 65.64119)
+			 (xy 148.325 65.7) (xy 148.32211 65.75881) (xy 148.31347 65.81705) (xy 148.29916 65.87417)
+			 (xy 148.27933 65.92961) (xy 148.25415 65.98284) (xy 148.22388 66.03334) (xy 148.18881 66.08064)
+			 (xy 148.14926 66.12426) (xy 148.10564 66.16381) (xy 148.05834 66.19888) (xy 148.00784 66.22915)
+			 (xy 147.95461 66.25433) (xy 147.89917 66.27416) (xy 147.84205 66.28847) (xy 147.78381 66.29711)
+			 (xy 147.725 66.3) (xy 147.45 66.3) (xy 147.175 66.3) (xy 147.11619 66.29711)
+			 (xy 147.05795 66.28847) (xy 147.00083 66.27416) (xy 146.94539 66.25433) (xy 146.89216 66.22915)
+			 (xy 146.84166 66.19888) (xy 146.79436 66.16381) (xy 146.75074 66.12426) (xy 146.71119 66.08064)
+			 (xy 146.67612 66.03334) (xy 146.64585 65.98284) (xy 146.62067 65.92961) (xy 146.60084 65.87417)
+			 (xy 146.58653 65.81705) (xy 146.57789 65.75881) (xy 146.575 65.7) (xy 146.57789 65.64119)
+			 (xy 146.58653 65.58295) (xy 146.60084 65.52583) (xy 146.62067 65.47039) (xy 146.64585 65.41716)
+			 (xy 146.67612 65.36666) (xy 146.71119 65.31936) (xy 146.75074 65.27574) (xy 146.79436 65.23619)
+			 (xy 146.84166 65.20112) (xy 146.89216 65.17085) (xy 146.94539 65.14567) (xy 147.00083 65.12584)
+			 (xy 147.05795 65.11153) (xy 147.11619 65.10289) (xy 147.175 65.1) (xy 147.725 65.1))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 147.78381 63.10289) (xy 147.84205 63.11153) (xy 147.89917 63.12584)
+			 (xy 147.95461 63.14567) (xy 148.00784 63.17085) (xy 148.05834 63.20112) (xy 148.10564 63.23619)
+			 (xy 148.14926 63.27574) (xy 148.18881 63.31936) (xy 148.22388 63.36666) (xy 148.25415 63.41716)
+			 (xy 148.27933 63.47039) (xy 148.29916 63.52583) (xy 148.31347 63.58295) (xy 148.32211 63.64119)
+			 (xy 148.325 63.7) (xy 148.32211 63.75881) (xy 148.31347 63.81705) (xy 148.29916 63.87417)
+			 (xy 148.27933 63.92961) (xy 148.25415 63.98284) (xy 148.22388 64.03334) (xy 148.18881 64.08064)
+			 (xy 148.14926 64.12426) (xy 148.10564 64.16381) (xy 148.05834 64.19888) (xy 148.00784 64.22915)
+			 (xy 147.95461 64.25433) (xy 147.89917 64.27416) (xy 147.84205 64.28847) (xy 147.78381 64.29711)
+			 (xy 147.725 64.3) (xy 147.45 64.3) (xy 147.175 64.3) (xy 147.11619 64.29711)
+			 (xy 147.05795 64.28847) (xy 147.00083 64.27416) (xy 146.94539 64.25433) (xy 146.89216 64.22915)
+			 (xy 146.84166 64.19888) (xy 146.79436 64.16381) (xy 146.75074 64.12426) (xy 146.71119 64.08064)
+			 (xy 146.67612 64.03334) (xy 146.64585 63.98284) (xy 146.62067 63.92961) (xy 146.60084 63.87417)
+			 (xy 146.58653 63.81705) (xy 146.57789 63.75881) (xy 146.575 63.7) (xy 146.57789 63.64119)
+			 (xy 146.58653 63.58295) (xy 146.60084 63.52583) (xy 146.62067 63.47039) (xy 146.64585 63.41716)
+			 (xy 146.67612 63.36666) (xy 146.71119 63.31936) (xy 146.75074 63.27574) (xy 146.79436 63.23619)
+			 (xy 146.84166 63.20112) (xy 146.89216 63.17085) (xy 146.94539 63.14567) (xy 147.00083 63.12584)
+			 (xy 147.05795 63.11153) (xy 147.11619 63.10289) (xy 147.175 63.1) (xy 147.725 63.1))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 147.78381 61.10289) (xy 147.84205 61.11153) (xy 147.89917 61.12584)
+			 (xy 147.95461 61.14567) (xy 148.00784 61.17085) (xy 148.05834 61.20112) (xy 148.10564 61.23619)
+			 (xy 148.14926 61.27574) (xy 148.18881 61.31936) (xy 148.22388 61.36666) (xy 148.25415 61.41716)
+			 (xy 148.27933 61.47039) (xy 148.29916 61.52583) (xy 148.31347 61.58295) (xy 148.32211 61.64119)
+			 (xy 148.325 61.7) (xy 148.32211 61.75881) (xy 148.31347 61.81705) (xy 148.29916 61.87417)
+			 (xy 148.27933 61.92961) (xy 148.25415 61.98284) (xy 148.22388 62.03334) (xy 148.18881 62.08064)
+			 (xy 148.14926 62.12426) (xy 148.10564 62.16381) (xy 148.05834 62.19888) (xy 148.00784 62.22915)
+			 (xy 147.95461 62.25433) (xy 147.89917 62.27416) (xy 147.84205 62.28847) (xy 147.78381 62.29711)
+			 (xy 147.725 62.3) (xy 147.45 62.3) (xy 147.175 62.3) (xy 147.11619 62.29711)
+			 (xy 147.05795 62.28847) (xy 147.00083 62.27416) (xy 146.94539 62.25433) (xy 146.89216 62.22915)
+			 (xy 146.84166 62.19888) (xy 146.79436 62.16381) (xy 146.75074 62.12426) (xy 146.71119 62.08064)
+			 (xy 146.67612 62.03334) (xy 146.64585 61.98284) (xy 146.62067 61.92961) (xy 146.60084 61.87417)
+			 (xy 146.58653 61.81705) (xy 146.57789 61.75881) (xy 146.575 61.7) (xy 146.57789 61.64119)
+			 (xy 146.58653 61.58295) (xy 146.60084 61.52583) (xy 146.62067 61.47039) (xy 146.64585 61.41716)
+			 (xy 146.67612 61.36666) (xy 146.71119 61.31936) (xy 146.75074 61.27574) (xy 146.79436 61.23619)
+			 (xy 146.84166 61.20112) (xy 146.89216 61.17085) (xy 146.94539 61.14567) (xy 147.00083 61.12584)
+			 (xy 147.05795 61.11153) (xy 147.11619 61.10289) (xy 147.175 61.1) (xy 147.725 61.1))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_circle
+		(center 136.18 58.3) (end 136.98 58.3)
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 126.09841 57.50385) (xy 126.17607 57.51537) (xy 126.25223 57.53445)
+			 (xy 126.32615 57.5609) (xy 126.39712 57.59446) (xy 126.46446 57.63482) (xy 126.52751 57.68159)
+			 (xy 126.58569 57.73431) (xy 126.63841 57.79249) (xy 126.68518 57.85554) (xy 126.72554 57.92288)
+			 (xy 126.7591 57.99385) (xy 126.78555 58.06777) (xy 126.80463 58.14393) (xy 126.81615 58.22159)
+			 (xy 126.82 58.3) (xy 126.81615 58.37841) (xy 126.80463 58.45607) (xy 126.78555 58.53223)
+			 (xy 126.7591 58.60615) (xy 126.72554 58.67712) (xy 126.68518 58.74446) (xy 126.63841 58.80751)
+			 (xy 126.58569 58.86569) (xy 126.52751 58.91841) (xy 126.46446 58.96518) (xy 126.39712 59.00554)
+			 (xy 126.32615 59.0391) (xy 126.25223 59.06555) (xy 126.17607 59.08463) (xy 126.09841 59.09615)
+			 (xy 126.02 59.1) (xy 125.94159 59.09615) (xy 125.86393 59.08463) (xy 125.78777 59.06555)
+			 (xy 125.71385 59.0391) (xy 125.64288 59.00554) (xy 125.57554 58.96518) (xy 125.51249 58.91841)
+			 (xy 125.45431 58.86569) (xy 125.40159 58.80751) (xy 125.35482 58.74446) (xy 125.31446 58.67712)
+			 (xy 125.2809 58.60615) (xy 125.25445 58.53223) (xy 125.23537 58.45607) (xy 125.22385 58.37841)
+			 (xy 125.22 58.3) (xy 125.22385 58.22159) (xy 125.23537 58.14393) (xy 125.25445 58.06777)
+			 (xy 125.2809 57.99385) (xy 125.31446 57.92288) (xy 125.35482 57.85554) (xy 125.40159 57.79249)
+			 (xy 125.45431 57.73431) (xy 125.51249 57.68159) (xy 125.57554 57.63482) (xy 125.64288 57.59446)
+			 (xy 125.71385 57.5609) (xy 125.78777 57.53445) (xy 125.86393 57.51537) (xy 125.94159 57.50385)
+			 (xy 126.02 57.5))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_circle
+		(center 130 61.7) (end 130.8 61.7)
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 130.07841 71.06385) (xy 130.15607 71.07537) (xy 130.23223 71.09445)
+			 (xy 130.30615 71.1209) (xy 130.37712 71.15446) (xy 130.44446 71.19482) (xy 130.50751 71.24159)
+			 (xy 130.56569 71.29431) (xy 130.61841 71.35249) (xy 130.66518 71.41554) (xy 130.70554 71.48288)
+			 (xy 130.7391 71.55385) (xy 130.76555 71.62777) (xy 130.78463 71.70393) (xy 130.79615 71.78159)
+			 (xy 130.8 71.86) (xy 130.79615 71.93841) (xy 130.78463 72.01607) (xy 130.76555 72.09223)
+			 (xy 130.7391 72.16615) (xy 130.70554 72.23712) (xy 130.66518 72.30446) (xy 130.61841 72.36751)
+			 (xy 130.56569 72.42569) (xy 130.50751 72.47841) (xy 130.44446 72.52518) (xy 130.37712 72.56554)
+			 (xy 130.30615 72.5991) (xy 130.23223 72.62555) (xy 130.15607 72.64463) (xy 130.07841 72.65615)
+			 (xy 130 72.66) (xy 129.92159 72.65615) (xy 129.84393 72.64463) (xy 129.76777 72.62555)
+			 (xy 129.69385 72.5991) (xy 129.62288 72.56554) (xy 129.55554 72.52518) (xy 129.49249 72.47841)
+			 (xy 129.43431 72.42569) (xy 129.38159 72.36751) (xy 129.33482 72.30446) (xy 129.29446 72.23712)
+			 (xy 129.2609 72.16615) (xy 129.23445 72.09223) (xy 129.21537 72.01607) (xy 129.20385 71.93841)
+			 (xy 129.2 71.86) (xy 129.20385 71.78159) (xy 129.21537 71.70393) (xy 129.23445 71.62777)
+			 (xy 129.2609 71.55385) (xy 129.29446 71.48288) (xy 129.33482 71.41554) (xy 129.38159 71.35249)
+			 (xy 129.43431 71.29431) (xy 129.49249 71.24159) (xy 129.55554 71.19482) (xy 129.62288 71.15446)
+			 (xy 129.69385 71.1209) (xy 129.76777 71.09445) (xy 129.84393 71.07537) (xy 129.92159 71.06385)
+			 (xy 130 71.06))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_circle
+		(center 150.18 71.9) (end 150.98 71.9)
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 140.09841 71.10385) (xy 140.17607 71.11537) (xy 140.25223 71.13445)
+			 (xy 140.32615 71.1609) (xy 140.39712 71.19446) (xy 140.46446 71.23482) (xy 140.52751 71.28159)
+			 (xy 140.58569 71.33431) (xy 140.63841 71.39249) (xy 140.68518 71.45554) (xy 140.72554 71.52288)
+			 (xy 140.7591 71.59385) (xy 140.78555 71.66777) (xy 140.80463 71.74393) (xy 140.81615 71.82159)
+			 (xy 140.82 71.9) (xy 140.81615 71.97841) (xy 140.80463 72.05607) (xy 140.78555 72.13223)
+			 (xy 140.7591 72.20615) (xy 140.72554 72.27712) (xy 140.68518 72.34446) (xy 140.63841 72.40751)
+			 (xy 140.58569 72.46569) (xy 140.52751 72.51841) (xy 140.46446 72.56518) (xy 140.39712 72.60554)
+			 (xy 140.32615 72.6391) (xy 140.25223 72.66555) (xy 140.17607 72.68463) (xy 140.09841 72.69615)
+			 (xy 140.02 72.7) (xy 139.94159 72.69615) (xy 139.86393 72.68463) (xy 139.78777 72.66555)
+			 (xy 139.71385 72.6391) (xy 139.64288 72.60554) (xy 139.57554 72.56518) (xy 139.51249 72.51841)
+			 (xy 139.45431 72.46569) (xy 139.40159 72.40751) (xy 139.35482 72.34446) (xy 139.31446 72.27712)
+			 (xy 139.2809 72.20615) (xy 139.25445 72.13223) (xy 139.23537 72.05607) (xy 139.22385 71.97841)
+			 (xy 139.22 71.9) (xy 139.22385 71.82159) (xy 139.23537 71.74393) (xy 139.25445 71.66777)
+			 (xy 139.2809 71.59385) (xy 139.31446 71.52288) (xy 139.35482 71.45554) (xy 139.40159 71.39249)
+			 (xy 139.45431 71.33431) (xy 139.51249 71.28159) (xy 139.57554 71.23482) (xy 139.64288 71.19446)
+			 (xy 139.71385 71.1609) (xy 139.78777 71.13445) (xy 139.86393 71.11537) (xy 139.94159 71.10385)
+			 (xy 140.02 71.1))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_circle
+		(center 136.8 61.9) (end 137.6 61.9)
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 136.87841 71.26385) (xy 136.95607 71.27537) (xy 137.03223 71.29445)
+			 (xy 137.10615 71.3209) (xy 137.17712 71.35446) (xy 137.24446 71.39482) (xy 137.30751 71.44159)
+			 (xy 137.36569 71.49431) (xy 137.41841 71.55249) (xy 137.46518 71.61554) (xy 137.50554 71.68288)
+			 (xy 137.5391 71.75385) (xy 137.56555 71.82777) (xy 137.58463 71.90393) (xy 137.59615 71.98159)
+			 (xy 137.6 72.06) (xy 137.59615 72.13841) (xy 137.58463 72.21607) (xy 137.56555 72.29223)
+			 (xy 137.5391 72.36615) (xy 137.50554 72.43712) (xy 137.46518 72.50446) (xy 137.41841 72.56751)
+			 (xy 137.36569 72.62569) (xy 137.30751 72.67841) (xy 137.24446 72.72518) (xy 137.17712 72.76554)
+			 (xy 137.10615 72.7991) (xy 137.03223 72.82555) (xy 136.95607 72.84463) (xy 136.87841 72.85615)
+			 (xy 136.8 72.86) (xy 136.72159 72.85615) (xy 136.64393 72.84463) (xy 136.56777 72.82555)
+			 (xy 136.49385 72.7991) (xy 136.42288 72.76554) (xy 136.35554 72.72518) (xy 136.29249 72.67841)
+			 (xy 136.23431 72.62569) (xy 136.18159 72.56751) (xy 136.13482 72.50446) (xy 136.09446 72.43712)
+			 (xy 136.0609 72.36615) (xy 136.03445 72.29223) (xy 136.01537 72.21607) (xy 136.00385 72.13841)
+			 (xy 136 72.06) (xy 136.00385 71.98159) (xy 136.01537 71.90393) (xy 136.03445 71.82777)
+			 (xy 136.0609 71.75385) (xy 136.09446 71.68288) (xy 136.13482 71.61554) (xy 136.18159 71.55249)
+			 (xy 136.23431 71.49431) (xy 136.29249 71.44159) (xy 136.35554 71.39482) (xy 136.42288 71.35446)
+			 (xy 136.49385 71.3209) (xy 136.56777 71.29445) (xy 136.64393 71.27537) (xy 136.72159 71.26385)
+			 (xy 136.8 71.26))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 143.2745 63.6238) (xy 143.29877 63.6202) (xy 143.32257 63.61424)
+			 (xy 143.34567 63.60597) (xy 143.36785 63.59548) (xy 143.38889 63.58287) (xy 143.4086 63.56825)
+			 (xy 143.42678 63.55178) (xy 143.44325 63.5336) (xy 143.45787 63.51389) (xy 143.47048 63.49285)
+			 (xy 143.48097 63.47067) (xy 143.48924 63.44757) (xy 143.4952 63.42377) (xy 143.4988 63.3995)
+			 (xy 143.5 63.375) (xy 143.5 62.125) (xy 143.4988 62.1005) (xy 143.4952 62.07623)
+			 (xy 143.48924 62.05243) (xy 143.48097 62.02933) (xy 143.47048 62.00715) (xy 143.45787 61.98611)
+			 (xy 143.44325 61.9664) (xy 143.42678 61.94822) (xy 143.4086 61.93175) (xy 143.38889 61.91713)
+			 (xy 143.36785 61.90452) (xy 143.34567 61.89403) (xy 143.32257 61.88576) (xy 143.29877 61.8798)
+			 (xy 143.2745 61.8762) (xy 143.25 61.875) (xy 142.55 61.875) (xy 142.5255 61.8762)
+			 (xy 142.50123 61.8798) (xy 142.47743 61.88576) (xy 142.45433 61.89403) (xy 142.43215 61.90452)
+			 (xy 142.41111 61.91713) (xy 142.3914 61.93175) (xy 142.37322 61.94822) (xy 142.35675 61.9664)
+			 (xy 142.34213 61.98611) (xy 142.32952 62.00715) (xy 142.31903 62.02933) (xy 142.31076 62.05243)
+			 (xy 142.3048 62.07623) (xy 142.3012 62.1005) (xy 142.3 62.125) (xy 142.3 63.375)
+			 (xy 142.3012 63.3995) (xy 142.3048 63.42377) (xy 142.31076 63.44757) (xy 142.31903 63.47067)
+			 (xy 142.32952 63.49285) (xy 142.34213 63.51389) (xy 142.35675 63.5336) (xy 142.37322 63.55178)
+			 (xy 142.3914 63.56825) (xy 142.41111 63.58287) (xy 142.43215 63.59548) (xy 142.45433 63.60597)
+			 (xy 142.47743 63.61424) (xy 142.50123 63.6202) (xy 142.5255 63.6238) (xy 142.55 63.625)
+			 (xy 143.25 63.625))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 140.95881 61.87789) (xy 141.01705 61.88653) (xy 141.07417 61.90084)
+			 (xy 141.12961 61.92067) (xy 141.18284 61.94585) (xy 141.23334 61.97612) (xy 141.28064 62.01119)
+			 (xy 141.32426 62.05074) (xy 141.36381 62.09436) (xy 141.39888 62.14166) (xy 141.42915 62.19216)
+			 (xy 141.45433 62.24539) (xy 141.47416 62.30083) (xy 141.48847 62.35795) (xy 141.49711 62.41619)
+			 (xy 141.5 62.475) (xy 141.5 62.75) (xy 141.5 63.025) (xy 141.49711 63.08381)
+			 (xy 141.48847 63.14205) (xy 141.47416 63.19917) (xy 141.45433 63.25461) (xy 141.42915 63.30784)
+			 (xy 141.39888 63.35834) (xy 141.36381 63.40564) (xy 141.32426 63.44926) (xy 141.28064 63.48881)
+			 (xy 141.23334 63.52388) (xy 141.18284 63.55415) (xy 141.12961 63.57933) (xy 141.07417 63.59916)
+			 (xy 141.01705 63.61347) (xy 140.95881 63.62211) (xy 140.9 63.625) (xy 140.84119 63.62211)
+			 (xy 140.78295 63.61347) (xy 140.72583 63.59916) (xy 140.67039 63.57933) (xy 140.61716 63.55415)
+			 (xy 140.56666 63.52388) (xy 140.51936 63.48881) (xy 140.47574 63.44926) (xy 140.43619 63.40564)
+			 (xy 140.40112 63.35834) (xy 140.37085 63.30784) (xy 140.34567 63.25461) (xy 140.32584 63.19917)
+			 (xy 140.31153 63.14205) (xy 140.30289 63.08381) (xy 140.3 63.025) (xy 140.3 62.475)
+			 (xy 140.30289 62.41619) (xy 140.31153 62.35795) (xy 140.32584 62.30083) (xy 140.34567 62.24539)
+			 (xy 140.37085 62.19216) (xy 140.40112 62.14166) (xy 140.43619 62.09436) (xy 140.47574 62.05074)
+			 (xy 140.51936 62.01119) (xy 140.56666 61.97612) (xy 140.61716 61.94585) (xy 140.67039 61.92067)
+			 (xy 140.72583 61.90084) (xy 140.78295 61.88653) (xy 140.84119 61.87789) (xy 140.9 61.875))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer F.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 143 67.2) (xy 141.4 67.2) (xy 141.4 65.6)
+			 (xy 143 65.6))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_circle
+		(center 142.2 68.4) (end 143 68.4)
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 134.5 72.96) (xy 132.3 72.96) (xy 132.3 70.76)
+			 (xy 134.5 70.76))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 133.50782 60.6053) (xy 133.6146 60.62114) (xy 133.71931 60.64737)
+			 (xy 133.82095 60.68373) (xy 133.91854 60.72989) (xy 134.01113 60.78538) (xy 134.09783 60.84969)
+			 (xy 134.17782 60.92218) (xy 134.25031 61.00217) (xy 134.31462 61.08887) (xy 134.37011 61.18146)
+			 (xy 134.41627 61.27905) (xy 134.45263 61.38069) (xy 134.47886 61.4854) (xy 134.4947 61.59218)
+			 (xy 134.5 61.7) (xy 134.4947 61.80782) (xy 134.47886 61.9146) (xy 134.45263 62.01931)
+			 (xy 134.41627 62.12095) (xy 134.37011 62.21854) (xy 134.31462 62.31113) (xy 134.25031 62.39783)
+			 (xy 134.17782 62.47782) (xy 134.09783 62.55031) (xy 134.01113 62.61462) (xy 133.91854 62.67011)
+			 (xy 133.82095 62.71627) (xy 133.71931 62.75263) (xy 133.6146 62.77886) (xy 133.50782 62.7947)
+			 (xy 133.4 62.8) (xy 133.29218 62.7947) (xy 133.1854 62.77886) (xy 133.08069 62.75263)
+			 (xy 132.97905 62.71627) (xy 132.88146 62.67011) (xy 132.78887 62.61462) (xy 132.70217 62.55031)
+			 (xy 132.62218 62.47782) (xy 132.54969 62.39783) (xy 132.48538 62.31113) (xy 132.42989 62.21854)
+			 (xy 132.38373 62.12095) (xy 132.34737 62.01931) (xy 132.32114 61.9146) (xy 132.3053 61.80782)
+			 (xy 132.3 61.7) (xy 132.3053 61.59218) (xy 132.32114 61.4854) (xy 132.34737 61.38069)
+			 (xy 132.38373 61.27905) (xy 132.42989 61.18146) (xy 132.48538 61.08887) (xy 132.54969 61.00217)
+			 (xy 132.62218 60.92218) (xy 132.70217 60.84969) (xy 132.78887 60.78538) (xy 132.88146 60.72989)
+			 (xy 132.97905 60.68373) (xy 133.08069 60.64737) (xy 133.1854 60.62114) (xy 133.29218 60.6053)
+			 (xy 133.4 60.6))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 126.7495 63.5988) (xy 126.77377 63.5952) (xy 126.79757 63.58924)
+			 (xy 126.82067 63.58097) (xy 126.84285 63.57048) (xy 126.86389 63.55787) (xy 126.8836 63.54325)
+			 (xy 126.90178 63.52678) (xy 126.91825 63.5086) (xy 126.93287 63.48889) (xy 126.94548 63.46785)
+			 (xy 126.95597 63.44567) (xy 126.96424 63.42257) (xy 126.9702 63.39877) (xy 126.9738 63.3745)
+			 (xy 126.975 63.35) (xy 126.975 62.65) (xy 126.9738 62.6255) (xy 126.9702 62.60123)
+			 (xy 126.96424 62.57743) (xy 126.95597 62.55433) (xy 126.94548 62.53215) (xy 126.93287 62.51111)
+			 (xy 126.91825 62.4914) (xy 126.90178 62.47322) (xy 126.8836 62.45675) (xy 126.86389 62.44213)
+			 (xy 126.84285 62.42952) (xy 126.82067 62.41903) (xy 126.79757 62.41076) (xy 126.77377 62.4048)
+			 (xy 126.7495 62.4012) (xy 126.725 62.4) (xy 125.475 62.4) (xy 125.4505 62.4012)
+			 (xy 125.42623 62.4048) (xy 125.40243 62.41076) (xy 125.37933 62.41903) (xy 125.35715 62.42952)
+			 (xy 125.33611 62.44213) (xy 125.3164 62.45675) (xy 125.29822 62.47322) (xy 125.28175 62.4914)
+			 (xy 125.26713 62.51111) (xy 125.25452 62.53215) (xy 125.24403 62.55433) (xy 125.23576 62.57743)
+			 (xy 125.2298 62.60123) (xy 125.2262 62.6255) (xy 125.225 62.65) (xy 125.225 63.35)
+			 (xy 125.2262 63.3745) (xy 125.2298 63.39877) (xy 125.23576 63.42257) (xy 125.24403 63.44567)
+			 (xy 125.25452 63.46785) (xy 125.26713 63.48889) (xy 125.28175 63.5086) (xy 125.29822 63.52678)
+			 (xy 125.3164 63.54325) (xy 125.33611 63.55787) (xy 125.35715 63.57048) (xy 125.37933 63.58097)
+			 (xy 125.40243 63.58924) (xy 125.42623 63.5952) (xy 125.4505 63.5988) (xy 125.475 63.6)
+			 (xy 126.725 63.6))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 126.43381 64.40289) (xy 126.49205 64.41153) (xy 126.54917 64.42584)
+			 (xy 126.60461 64.44567) (xy 126.65784 64.47085) (xy 126.70834 64.50112) (xy 126.75564 64.53619)
+			 (xy 126.79926 64.57574) (xy 126.83881 64.61936) (xy 126.87388 64.66666) (xy 126.90415 64.71716)
+			 (xy 126.92933 64.77039) (xy 126.94916 64.82583) (xy 126.96347 64.88295) (xy 126.97211 64.94119)
+			 (xy 126.975 65) (xy 126.97211 65.05881) (xy 126.96347 65.11705) (xy 126.94916 65.17417)
+			 (xy 126.92933 65.22961) (xy 126.90415 65.28284) (xy 126.87388 65.33334) (xy 126.83881 65.38064)
+			 (xy 126.79926 65.42426) (xy 126.75564 65.46381) (xy 126.70834 65.49888) (xy 126.65784 65.52915)
+			 (xy 126.60461 65.55433) (xy 126.54917 65.57416) (xy 126.49205 65.58847) (xy 126.43381 65.59711)
+			 (xy 126.375 65.6) (xy 126.1 65.6) (xy 125.825 65.6) (xy 125.76619 65.59711)
+			 (xy 125.70795 65.58847) (xy 125.65083 65.57416) (xy 125.59539 65.55433) (xy 125.54216 65.52915)
+			 (xy 125.49166 65.49888) (xy 125.44436 65.46381) (xy 125.40074 65.42426) (xy 125.36119 65.38064)
+			 (xy 125.32612 65.33334) (xy 125.29585 65.28284) (xy 125.27067 65.22961) (xy 125.25084 65.17417)
+			 (xy 125.23653 65.11705) (xy 125.22789 65.05881) (xy 125.225 65) (xy 125.22789 64.94119)
+			 (xy 125.23653 64.88295) (xy 125.25084 64.82583) (xy 125.27067 64.77039) (xy 125.29585 64.71716)
+			 (xy 125.32612 64.66666) (xy 125.36119 64.61936) (xy 125.40074 64.57574) (xy 125.44436 64.53619)
+			 (xy 125.49166 64.50112) (xy 125.54216 64.47085) (xy 125.59539 64.44567) (xy 125.65083 64.42584)
+			 (xy 125.70795 64.41153) (xy 125.76619 64.40289) (xy 125.825 64.4) (xy 126.375 64.4))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 126.43381 66.40289) (xy 126.49205 66.41153) (xy 126.54917 66.42584)
+			 (xy 126.60461 66.44567) (xy 126.65784 66.47085) (xy 126.70834 66.50112) (xy 126.75564 66.53619)
+			 (xy 126.79926 66.57574) (xy 126.83881 66.61936) (xy 126.87388 66.66666) (xy 126.90415 66.71716)
+			 (xy 126.92933 66.77039) (xy 126.94916 66.82583) (xy 126.96347 66.88295) (xy 126.97211 66.94119)
+			 (xy 126.975 67) (xy 126.97211 67.05881) (xy 126.96347 67.11705) (xy 126.94916 67.17417)
+			 (xy 126.92933 67.22961) (xy 126.90415 67.28284) (xy 126.87388 67.33334) (xy 126.83881 67.38064)
+			 (xy 126.79926 67.42426) (xy 126.75564 67.46381) (xy 126.70834 67.49888) (xy 126.65784 67.52915)
+			 (xy 126.60461 67.55433) (xy 126.54917 67.57416) (xy 126.49205 67.58847) (xy 126.43381 67.59711)
+			 (xy 126.375 67.6) (xy 126.1 67.6) (xy 125.825 67.6) (xy 125.76619 67.59711)
+			 (xy 125.70795 67.58847) (xy 125.65083 67.57416) (xy 125.59539 67.55433) (xy 125.54216 67.52915)
+			 (xy 125.49166 67.49888) (xy 125.44436 67.46381) (xy 125.40074 67.42426) (xy 125.36119 67.38064)
+			 (xy 125.32612 67.33334) (xy 125.29585 67.28284) (xy 125.27067 67.22961) (xy 125.25084 67.17417)
+			 (xy 125.23653 67.11705) (xy 125.22789 67.05881) (xy 125.225 67) (xy 125.22789 66.94119)
+			 (xy 125.23653 66.88295) (xy 125.25084 66.82583) (xy 125.27067 66.77039) (xy 125.29585 66.71716)
+			 (xy 125.32612 66.66666) (xy 125.36119 66.61936) (xy 125.40074 66.57574) (xy 125.44436 66.53619)
+			 (xy 125.49166 66.50112) (xy 125.54216 66.47085) (xy 125.59539 66.44567) (xy 125.65083 66.42584)
+			 (xy 125.70795 66.41153) (xy 125.76619 66.40289) (xy 125.825 66.4) (xy 126.375 66.4))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 148.0995 68.2988) (xy 148.12377 68.2952) (xy 148.14757 68.28924)
+			 (xy 148.17067 68.28097) (xy 148.19285 68.27048) (xy 148.21389 68.25787) (xy 148.2336 68.24325)
+			 (xy 148.25178 68.22678) (xy 148.26825 68.2086) (xy 148.28287 68.18889) (xy 148.29548 68.16785)
+			 (xy 148.30597 68.14567) (xy 148.31424 68.12257) (xy 148.3202 68.09877) (xy 148.3238 68.0745)
+			 (xy 148.325 68.05) (xy 148.325 67.35) (xy 148.3238 67.3255) (xy 148.3202 67.30123)
+			 (xy 148.31424 67.27743) (xy 148.30597 67.25433) (xy 148.29548 67.23215) (xy 148.28287 67.21111)
+			 (xy 148.26825 67.1914) (xy 148.25178 67.17322) (xy 148.2336 67.15675) (xy 148.21389 67.14213)
+			 (xy 148.19285 67.12952) (xy 148.17067 67.11903) (xy 148.14757 67.11076) (xy 148.12377 67.1048)
+			 (xy 148.0995 67.1012) (xy 148.075 67.1) (xy 146.825 67.1) (xy 146.8005 67.1012)
+			 (xy 146.77623 67.1048) (xy 146.75243 67.11076) (xy 146.72933 67.11903) (xy 146.70715 67.12952)
+			 (xy 146.68611 67.14213) (xy 146.6664 67.15675) (xy 146.64822 67.17322) (xy 146.63175 67.1914)
+			 (xy 146.61713 67.21111) (xy 146.60452 67.23215) (xy 146.59403 67.25433) (xy 146.58576 67.27743)
+			 (xy 146.5798 67.30123) (xy 146.5762 67.3255) (xy 146.575 67.35) (xy 146.575 68.05)
+			 (xy 146.5762 68.0745) (xy 146.5798 68.09877) (xy 146.58576 68.12257) (xy 146.59403 68.14567)
+			 (xy 146.60452 68.16785) (xy 146.61713 68.18889) (xy 146.63175 68.2086) (xy 146.64822 68.22678)
+			 (xy 146.6664 68.24325) (xy 146.68611 68.25787) (xy 146.70715 68.27048) (xy 146.72933 68.28097)
+			 (xy 146.75243 68.28924) (xy 146.77623 68.2952) (xy 146.8005 68.2988) (xy 146.825 68.3)
+			 (xy 148.075 68.3))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 147.78381 65.10289) (xy 147.84205 65.11153) (xy 147.89917 65.12584)
+			 (xy 147.95461 65.14567) (xy 148.00784 65.17085) (xy 148.05834 65.20112) (xy 148.10564 65.23619)
+			 (xy 148.14926 65.27574) (xy 148.18881 65.31936) (xy 148.22388 65.36666) (xy 148.25415 65.41716)
+			 (xy 148.27933 65.47039) (xy 148.29916 65.52583) (xy 148.31347 65.58295) (xy 148.32211 65.64119)
+			 (xy 148.325 65.7) (xy 148.32211 65.75881) (xy 148.31347 65.81705) (xy 148.29916 65.87417)
+			 (xy 148.27933 65.92961) (xy 148.25415 65.98284) (xy 148.22388 66.03334) (xy 148.18881 66.08064)
+			 (xy 148.14926 66.12426) (xy 148.10564 66.16381) (xy 148.05834 66.19888) (xy 148.00784 66.22915)
+			 (xy 147.95461 66.25433) (xy 147.89917 66.27416) (xy 147.84205 66.28847) (xy 147.78381 66.29711)
+			 (xy 147.725 66.3) (xy 147.45 66.3) (xy 147.175 66.3) (xy 147.11619 66.29711)
+			 (xy 147.05795 66.28847) (xy 147.00083 66.27416) (xy 146.94539 66.25433) (xy 146.89216 66.22915)
+			 (xy 146.84166 66.19888) (xy 146.79436 66.16381) (xy 146.75074 66.12426) (xy 146.71119 66.08064)
+			 (xy 146.67612 66.03334) (xy 146.64585 65.98284) (xy 146.62067 65.92961) (xy 146.60084 65.87417)
+			 (xy 146.58653 65.81705) (xy 146.57789 65.75881) (xy 146.575 65.7) (xy 146.57789 65.64119)
+			 (xy 146.58653 65.58295) (xy 146.60084 65.52583) (xy 146.62067 65.47039) (xy 146.64585 65.41716)
+			 (xy 146.67612 65.36666) (xy 146.71119 65.31936) (xy 146.75074 65.27574) (xy 146.79436 65.23619)
+			 (xy 146.84166 65.20112) (xy 146.89216 65.17085) (xy 146.94539 65.14567) (xy 147.00083 65.12584)
+			 (xy 147.05795 65.11153) (xy 147.11619 65.10289) (xy 147.175 65.1) (xy 147.725 65.1))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 147.78381 63.10289) (xy 147.84205 63.11153) (xy 147.89917 63.12584)
+			 (xy 147.95461 63.14567) (xy 148.00784 63.17085) (xy 148.05834 63.20112) (xy 148.10564 63.23619)
+			 (xy 148.14926 63.27574) (xy 148.18881 63.31936) (xy 148.22388 63.36666) (xy 148.25415 63.41716)
+			 (xy 148.27933 63.47039) (xy 148.29916 63.52583) (xy 148.31347 63.58295) (xy 148.32211 63.64119)
+			 (xy 148.325 63.7) (xy 148.32211 63.75881) (xy 148.31347 63.81705) (xy 148.29916 63.87417)
+			 (xy 148.27933 63.92961) (xy 148.25415 63.98284) (xy 148.22388 64.03334) (xy 148.18881 64.08064)
+			 (xy 148.14926 64.12426) (xy 148.10564 64.16381) (xy 148.05834 64.19888) (xy 148.00784 64.22915)
+			 (xy 147.95461 64.25433) (xy 147.89917 64.27416) (xy 147.84205 64.28847) (xy 147.78381 64.29711)
+			 (xy 147.725 64.3) (xy 147.45 64.3) (xy 147.175 64.3) (xy 147.11619 64.29711)
+			 (xy 147.05795 64.28847) (xy 147.00083 64.27416) (xy 146.94539 64.25433) (xy 146.89216 64.22915)
+			 (xy 146.84166 64.19888) (xy 146.79436 64.16381) (xy 146.75074 64.12426) (xy 146.71119 64.08064)
+			 (xy 146.67612 64.03334) (xy 146.64585 63.98284) (xy 146.62067 63.92961) (xy 146.60084 63.87417)
+			 (xy 146.58653 63.81705) (xy 146.57789 63.75881) (xy 146.575 63.7) (xy 146.57789 63.64119)
+			 (xy 146.58653 63.58295) (xy 146.60084 63.52583) (xy 146.62067 63.47039) (xy 146.64585 63.41716)
+			 (xy 146.67612 63.36666) (xy 146.71119 63.31936) (xy 146.75074 63.27574) (xy 146.79436 63.23619)
+			 (xy 146.84166 63.20112) (xy 146.89216 63.17085) (xy 146.94539 63.14567) (xy 147.00083 63.12584)
+			 (xy 147.05795 63.11153) (xy 147.11619 63.10289) (xy 147.175 63.1) (xy 147.725 63.1))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 147.78381 61.10289) (xy 147.84205 61.11153) (xy 147.89917 61.12584)
+			 (xy 147.95461 61.14567) (xy 148.00784 61.17085) (xy 148.05834 61.20112) (xy 148.10564 61.23619)
+			 (xy 148.14926 61.27574) (xy 148.18881 61.31936) (xy 148.22388 61.36666) (xy 148.25415 61.41716)
+			 (xy 148.27933 61.47039) (xy 148.29916 61.52583) (xy 148.31347 61.58295) (xy 148.32211 61.64119)
+			 (xy 148.325 61.7) (xy 148.32211 61.75881) (xy 148.31347 61.81705) (xy 148.29916 61.87417)
+			 (xy 148.27933 61.92961) (xy 148.25415 61.98284) (xy 148.22388 62.03334) (xy 148.18881 62.08064)
+			 (xy 148.14926 62.12426) (xy 148.10564 62.16381) (xy 148.05834 62.19888) (xy 148.00784 62.22915)
+			 (xy 147.95461 62.25433) (xy 147.89917 62.27416) (xy 147.84205 62.28847) (xy 147.78381 62.29711)
+			 (xy 147.725 62.3) (xy 147.45 62.3) (xy 147.175 62.3) (xy 147.11619 62.29711)
+			 (xy 147.05795 62.28847) (xy 147.00083 62.27416) (xy 146.94539 62.25433) (xy 146.89216 62.22915)
+			 (xy 146.84166 62.19888) (xy 146.79436 62.16381) (xy 146.75074 62.12426) (xy 146.71119 62.08064)
+			 (xy 146.67612 62.03334) (xy 146.64585 61.98284) (xy 146.62067 61.92961) (xy 146.60084 61.87417)
+			 (xy 146.58653 61.81705) (xy 146.57789 61.75881) (xy 146.575 61.7) (xy 146.57789 61.64119)
+			 (xy 146.58653 61.58295) (xy 146.60084 61.52583) (xy 146.62067 61.47039) (xy 146.64585 61.41716)
+			 (xy 146.67612 61.36666) (xy 146.71119 61.31936) (xy 146.75074 61.27574) (xy 146.79436 61.23619)
+			 (xy 146.84166 61.20112) (xy 146.89216 61.17085) (xy 146.94539 61.14567) (xy 147.00083 61.12584)
+			 (xy 147.05795 61.11153) (xy 147.11619 61.10289) (xy 147.175 61.1) (xy 147.725 61.1))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_circle
+		(center 136.18 58.3) (end 136.98 58.3)
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 126.09841 57.50385) (xy 126.17607 57.51537) (xy 126.25223 57.53445)
+			 (xy 126.32615 57.5609) (xy 126.39712 57.59446) (xy 126.46446 57.63482) (xy 126.52751 57.68159)
+			 (xy 126.58569 57.73431) (xy 126.63841 57.79249) (xy 126.68518 57.85554) (xy 126.72554 57.92288)
+			 (xy 126.7591 57.99385) (xy 126.78555 58.06777) (xy 126.80463 58.14393) (xy 126.81615 58.22159)
+			 (xy 126.82 58.3) (xy 126.81615 58.37841) (xy 126.80463 58.45607) (xy 126.78555 58.53223)
+			 (xy 126.7591 58.60615) (xy 126.72554 58.67712) (xy 126.68518 58.74446) (xy 126.63841 58.80751)
+			 (xy 126.58569 58.86569) (xy 126.52751 58.91841) (xy 126.46446 58.96518) (xy 126.39712 59.00554)
+			 (xy 126.32615 59.0391) (xy 126.25223 59.06555) (xy 126.17607 59.08463) (xy 126.09841 59.09615)
+			 (xy 126.02 59.1) (xy 125.94159 59.09615) (xy 125.86393 59.08463) (xy 125.78777 59.06555)
+			 (xy 125.71385 59.0391) (xy 125.64288 59.00554) (xy 125.57554 58.96518) (xy 125.51249 58.91841)
+			 (xy 125.45431 58.86569) (xy 125.40159 58.80751) (xy 125.35482 58.74446) (xy 125.31446 58.67712)
+			 (xy 125.2809 58.60615) (xy 125.25445 58.53223) (xy 125.23537 58.45607) (xy 125.22385 58.37841)
+			 (xy 125.22 58.3) (xy 125.22385 58.22159) (xy 125.23537 58.14393) (xy 125.25445 58.06777)
+			 (xy 125.2809 57.99385) (xy 125.31446 57.92288) (xy 125.35482 57.85554) (xy 125.40159 57.79249)
+			 (xy 125.45431 57.73431) (xy 125.51249 57.68159) (xy 125.57554 57.63482) (xy 125.64288 57.59446)
+			 (xy 125.71385 57.5609) (xy 125.78777 57.53445) (xy 125.86393 57.51537) (xy 125.94159 57.50385)
+			 (xy 126.02 57.5))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_circle
+		(center 130 61.7) (end 130.8 61.7)
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 130.07841 71.06385) (xy 130.15607 71.07537) (xy 130.23223 71.09445)
+			 (xy 130.30615 71.1209) (xy 130.37712 71.15446) (xy 130.44446 71.19482) (xy 130.50751 71.24159)
+			 (xy 130.56569 71.29431) (xy 130.61841 71.35249) (xy 130.66518 71.41554) (xy 130.70554 71.48288)
+			 (xy 130.7391 71.55385) (xy 130.76555 71.62777) (xy 130.78463 71.70393) (xy 130.79615 71.78159)
+			 (xy 130.8 71.86) (xy 130.79615 71.93841) (xy 130.78463 72.01607) (xy 130.76555 72.09223)
+			 (xy 130.7391 72.16615) (xy 130.70554 72.23712) (xy 130.66518 72.30446) (xy 130.61841 72.36751)
+			 (xy 130.56569 72.42569) (xy 130.50751 72.47841) (xy 130.44446 72.52518) (xy 130.37712 72.56554)
+			 (xy 130.30615 72.5991) (xy 130.23223 72.62555) (xy 130.15607 72.64463) (xy 130.07841 72.65615)
+			 (xy 130 72.66) (xy 129.92159 72.65615) (xy 129.84393 72.64463) (xy 129.76777 72.62555)
+			 (xy 129.69385 72.5991) (xy 129.62288 72.56554) (xy 129.55554 72.52518) (xy 129.49249 72.47841)
+			 (xy 129.43431 72.42569) (xy 129.38159 72.36751) (xy 129.33482 72.30446) (xy 129.29446 72.23712)
+			 (xy 129.2609 72.16615) (xy 129.23445 72.09223) (xy 129.21537 72.01607) (xy 129.20385 71.93841)
+			 (xy 129.2 71.86) (xy 129.20385 71.78159) (xy 129.21537 71.70393) (xy 129.23445 71.62777)
+			 (xy 129.2609 71.55385) (xy 129.29446 71.48288) (xy 129.33482 71.41554) (xy 129.38159 71.35249)
+			 (xy 129.43431 71.29431) (xy 129.49249 71.24159) (xy 129.55554 71.19482) (xy 129.62288 71.15446)
+			 (xy 129.69385 71.1209) (xy 129.76777 71.09445) (xy 129.84393 71.07537) (xy 129.92159 71.06385)
+			 (xy 130 71.06))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_circle
+		(center 150.18 71.9) (end 150.98 71.9)
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 140.09841 71.10385) (xy 140.17607 71.11537) (xy 140.25223 71.13445)
+			 (xy 140.32615 71.1609) (xy 140.39712 71.19446) (xy 140.46446 71.23482) (xy 140.52751 71.28159)
+			 (xy 140.58569 71.33431) (xy 140.63841 71.39249) (xy 140.68518 71.45554) (xy 140.72554 71.52288)
+			 (xy 140.7591 71.59385) (xy 140.78555 71.66777) (xy 140.80463 71.74393) (xy 140.81615 71.82159)
+			 (xy 140.82 71.9) (xy 140.81615 71.97841) (xy 140.80463 72.05607) (xy 140.78555 72.13223)
+			 (xy 140.7591 72.20615) (xy 140.72554 72.27712) (xy 140.68518 72.34446) (xy 140.63841 72.40751)
+			 (xy 140.58569 72.46569) (xy 140.52751 72.51841) (xy 140.46446 72.56518) (xy 140.39712 72.60554)
+			 (xy 140.32615 72.6391) (xy 140.25223 72.66555) (xy 140.17607 72.68463) (xy 140.09841 72.69615)
+			 (xy 140.02 72.7) (xy 139.94159 72.69615) (xy 139.86393 72.68463) (xy 139.78777 72.66555)
+			 (xy 139.71385 72.6391) (xy 139.64288 72.60554) (xy 139.57554 72.56518) (xy 139.51249 72.51841)
+			 (xy 139.45431 72.46569) (xy 139.40159 72.40751) (xy 139.35482 72.34446) (xy 139.31446 72.27712)
+			 (xy 139.2809 72.20615) (xy 139.25445 72.13223) (xy 139.23537 72.05607) (xy 139.22385 71.97841)
+			 (xy 139.22 71.9) (xy 139.22385 71.82159) (xy 139.23537 71.74393) (xy 139.25445 71.66777)
+			 (xy 139.2809 71.59385) (xy 139.31446 71.52288) (xy 139.35482 71.45554) (xy 139.40159 71.39249)
+			 (xy 139.45431 71.33431) (xy 139.51249 71.28159) (xy 139.57554 71.23482) (xy 139.64288 71.19446)
+			 (xy 139.71385 71.1609) (xy 139.78777 71.13445) (xy 139.86393 71.11537) (xy 139.94159 71.10385)
+			 (xy 140.02 71.1))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_circle
+		(center 136.8 61.9) (end 137.6 61.9)
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 136.87841 71.26385) (xy 136.95607 71.27537) (xy 137.03223 71.29445)
+			 (xy 137.10615 71.3209) (xy 137.17712 71.35446) (xy 137.24446 71.39482) (xy 137.30751 71.44159)
+			 (xy 137.36569 71.49431) (xy 137.41841 71.55249) (xy 137.46518 71.61554) (xy 137.50554 71.68288)
+			 (xy 137.5391 71.75385) (xy 137.56555 71.82777) (xy 137.58463 71.90393) (xy 137.59615 71.98159)
+			 (xy 137.6 72.06) (xy 137.59615 72.13841) (xy 137.58463 72.21607) (xy 137.56555 72.29223)
+			 (xy 137.5391 72.36615) (xy 137.50554 72.43712) (xy 137.46518 72.50446) (xy 137.41841 72.56751)
+			 (xy 137.36569 72.62569) (xy 137.30751 72.67841) (xy 137.24446 72.72518) (xy 137.17712 72.76554)
+			 (xy 137.10615 72.7991) (xy 137.03223 72.82555) (xy 136.95607 72.84463) (xy 136.87841 72.85615)
+			 (xy 136.8 72.86) (xy 136.72159 72.85615) (xy 136.64393 72.84463) (xy 136.56777 72.82555)
+			 (xy 136.49385 72.7991) (xy 136.42288 72.76554) (xy 136.35554 72.72518) (xy 136.29249 72.67841)
+			 (xy 136.23431 72.62569) (xy 136.18159 72.56751) (xy 136.13482 72.50446) (xy 136.09446 72.43712)
+			 (xy 136.0609 72.36615) (xy 136.03445 72.29223) (xy 136.01537 72.21607) (xy 136.00385 72.13841)
+			 (xy 136 72.06) (xy 136.00385 71.98159) (xy 136.01537 71.90393) (xy 136.03445 71.82777)
+			 (xy 136.0609 71.75385) (xy 136.09446 71.68288) (xy 136.13482 71.61554) (xy 136.18159 71.55249)
+			 (xy 136.23431 71.49431) (xy 136.29249 71.44159) (xy 136.35554 71.39482) (xy 136.42288 71.35446)
+			 (xy 136.49385 71.3209) (xy 136.56777 71.29445) (xy 136.64393 71.27537) (xy 136.72159 71.26385)
+			 (xy 136.8 71.26))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 143.2745 63.6238) (xy 143.29877 63.6202) (xy 143.32257 63.61424)
+			 (xy 143.34567 63.60597) (xy 143.36785 63.59548) (xy 143.38889 63.58287) (xy 143.4086 63.56825)
+			 (xy 143.42678 63.55178) (xy 143.44325 63.5336) (xy 143.45787 63.51389) (xy 143.47048 63.49285)
+			 (xy 143.48097 63.47067) (xy 143.48924 63.44757) (xy 143.4952 63.42377) (xy 143.4988 63.3995)
+			 (xy 143.5 63.375) (xy 143.5 62.125) (xy 143.4988 62.1005) (xy 143.4952 62.07623)
+			 (xy 143.48924 62.05243) (xy 143.48097 62.02933) (xy 143.47048 62.00715) (xy 143.45787 61.98611)
+			 (xy 143.44325 61.9664) (xy 143.42678 61.94822) (xy 143.4086 61.93175) (xy 143.38889 61.91713)
+			 (xy 143.36785 61.90452) (xy 143.34567 61.89403) (xy 143.32257 61.88576) (xy 143.29877 61.8798)
+			 (xy 143.2745 61.8762) (xy 143.25 61.875) (xy 142.55 61.875) (xy 142.5255 61.8762)
+			 (xy 142.50123 61.8798) (xy 142.47743 61.88576) (xy 142.45433 61.89403) (xy 142.43215 61.90452)
+			 (xy 142.41111 61.91713) (xy 142.3914 61.93175) (xy 142.37322 61.94822) (xy 142.35675 61.9664)
+			 (xy 142.34213 61.98611) (xy 142.32952 62.00715) (xy 142.31903 62.02933) (xy 142.31076 62.05243)
+			 (xy 142.3048 62.07623) (xy 142.3012 62.1005) (xy 142.3 62.125) (xy 142.3 63.375)
+			 (xy 142.3012 63.3995) (xy 142.3048 63.42377) (xy 142.31076 63.44757) (xy 142.31903 63.47067)
+			 (xy 142.32952 63.49285) (xy 142.34213 63.51389) (xy 142.35675 63.5336) (xy 142.37322 63.55178)
+			 (xy 142.3914 63.56825) (xy 142.41111 63.58287) (xy 142.43215 63.59548) (xy 142.45433 63.60597)
+			 (xy 142.47743 63.61424) (xy 142.50123 63.6202) (xy 142.5255 63.6238) (xy 142.55 63.625)
+			 (xy 143.25 63.625))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 140.95881 61.87789) (xy 141.01705 61.88653) (xy 141.07417 61.90084)
+			 (xy 141.12961 61.92067) (xy 141.18284 61.94585) (xy 141.23334 61.97612) (xy 141.28064 62.01119)
+			 (xy 141.32426 62.05074) (xy 141.36381 62.09436) (xy 141.39888 62.14166) (xy 141.42915 62.19216)
+			 (xy 141.45433 62.24539) (xy 141.47416 62.30083) (xy 141.48847 62.35795) (xy 141.49711 62.41619)
+			 (xy 141.5 62.475) (xy 141.5 62.75) (xy 141.5 63.025) (xy 141.49711 63.08381)
+			 (xy 141.48847 63.14205) (xy 141.47416 63.19917) (xy 141.45433 63.25461) (xy 141.42915 63.30784)
+			 (xy 141.39888 63.35834) (xy 141.36381 63.40564) (xy 141.32426 63.44926) (xy 141.28064 63.48881)
+			 (xy 141.23334 63.52388) (xy 141.18284 63.55415) (xy 141.12961 63.57933) (xy 141.07417 63.59916)
+			 (xy 141.01705 63.61347) (xy 140.95881 63.62211) (xy 140.9 63.625) (xy 140.84119 63.62211)
+			 (xy 140.78295 63.61347) (xy 140.72583 63.59916) (xy 140.67039 63.57933) (xy 140.61716 63.55415)
+			 (xy 140.56666 63.52388) (xy 140.51936 63.48881) (xy 140.47574 63.44926) (xy 140.43619 63.40564)
+			 (xy 140.40112 63.35834) (xy 140.37085 63.30784) (xy 140.34567 63.25461) (xy 140.32584 63.19917)
+			 (xy 140.31153 63.14205) (xy 140.30289 63.08381) (xy 140.3 63.025) (xy 140.3 62.475)
+			 (xy 140.30289 62.41619) (xy 140.31153 62.35795) (xy 140.32584 62.30083) (xy 140.34567 62.24539)
+			 (xy 140.37085 62.19216) (xy 140.40112 62.14166) (xy 140.43619 62.09436) (xy 140.47574 62.05074)
+			 (xy 140.51936 62.01119) (xy 140.56666 61.97612) (xy 140.61716 61.94585) (xy 140.67039 61.92067)
+			 (xy 140.72583 61.90084) (xy 140.78295 61.88653) (xy 140.84119 61.87789) (xy 140.9 61.875))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Mask)
+	)
+	(gr_poly
+		(pts
+			 (xy 143 65.6) (xy 141.4 65.6) (xy 141.4 67.2)
+			 (xy 143 67.2))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Cu)
+	)
+	(gr_poly
+		(pts
+			 (xy 134.5 70.76) (xy 132.3 70.76) (xy 132.3 72.96)
+			 (xy 134.5 72.96))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Cu)
+	)
+	(gr_circle
+		(center 133.4 61.7) (end 134.5 61.7)
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Cu)
+	)
+	(gr_poly
+		(pts
+			 (xy 126.7495 63.5988) (xy 126.77377 63.5952) (xy 126.79757 63.58924)
+			 (xy 126.82067 63.58097) (xy 126.84285 63.57048) (xy 126.86389 63.55787) (xy 126.8836 63.54325)
+			 (xy 126.90178 63.52678) (xy 126.91825 63.5086) (xy 126.93287 63.48889) (xy 126.94548 63.46785)
+			 (xy 126.95597 63.44567) (xy 126.96424 63.42257) (xy 126.9702 63.39877) (xy 126.9738 63.3745)
+			 (xy 126.975 63.35) (xy 126.975 62.65) (xy 126.9738 62.6255) (xy 126.9702 62.60123)
+			 (xy 126.96424 62.57743) (xy 126.95597 62.55433) (xy 126.94548 62.53215) (xy 126.93287 62.51111)
+			 (xy 126.91825 62.4914) (xy 126.90178 62.47322) (xy 126.8836 62.45675) (xy 126.86389 62.44213)
+			 (xy 126.84285 62.42952) (xy 126.82067 62.41903) (xy 126.79757 62.41076) (xy 126.77377 62.4048)
+			 (xy 126.7495 62.4012) (xy 126.725 62.4) (xy 125.475 62.4) (xy 125.4505 62.4012)
+			 (xy 125.42623 62.4048) (xy 125.40243 62.41076) (xy 125.37933 62.41903) (xy 125.35715 62.42952)
+			 (xy 125.33611 62.44213) (xy 125.3164 62.45675) (xy 125.29822 62.47322) (xy 125.28175 62.4914)
+			 (xy 125.26713 62.51111) (xy 125.25452 62.53215) (xy 125.24403 62.55433) (xy 125.23576 62.57743)
+			 (xy 125.2298 62.60123) (xy 125.2262 62.6255) (xy 125.225 62.65) (xy 125.225 63.35)
+			 (xy 125.2262 63.3745) (xy 125.2298 63.39877) (xy 125.23576 63.42257) (xy 125.24403 63.44567)
+			 (xy 125.25452 63.46785) (xy 125.26713 63.48889) (xy 125.28175 63.5086) (xy 125.29822 63.52678)
+			 (xy 125.3164 63.54325) (xy 125.33611 63.55787) (xy 125.35715 63.57048) (xy 125.37933 63.58097)
+			 (xy 125.40243 63.58924) (xy 125.42623 63.5952) (xy 125.4505 63.5988) (xy 125.475 63.6)
+			 (xy 126.725 63.6))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Cu)
+	)
+	(gr_poly
+		(pts
+			 (xy 126.43381 65.59711) (xy 126.49205 65.58847) (xy 126.54917 65.57416)
+			 (xy 126.60461 65.55433) (xy 126.65784 65.52915) (xy 126.70834 65.49888) (xy 126.75564 65.46381)
+			 (xy 126.79926 65.42426) (xy 126.83881 65.38064) (xy 126.87388 65.33334) (xy 126.90415 65.28284)
+			 (xy 126.92933 65.22961) (xy 126.94916 65.17417) (xy 126.96347 65.11705) (xy 126.97211 65.05881)
+			 (xy 126.975 65) (xy 126.97211 64.94119) (xy 126.96347 64.88295) (xy 126.94916 64.82583)
+			 (xy 126.92933 64.77039) (xy 126.90415 64.71716) (xy 126.87388 64.66666) (xy 126.83881 64.61936)
+			 (xy 126.79926 64.57574) (xy 126.75564 64.53619) (xy 126.70834 64.50112) (xy 126.65784 64.47085)
+			 (xy 126.60461 64.44567) (xy 126.54917 64.42584) (xy 126.49205 64.41153) (xy 126.43381 64.40289)
+			 (xy 126.375 64.4) (xy 126.1 64.4) (xy 125.825 64.4) (xy 125.76619 64.40289)
+			 (xy 125.70795 64.41153) (xy 125.65083 64.42584) (xy 125.59539 64.44567) (xy 125.54216 64.47085)
+			 (xy 125.49166 64.50112) (xy 125.44436 64.53619) (xy 125.40074 64.57574) (xy 125.36119 64.61936)
+			 (xy 125.32612 64.66666) (xy 125.29585 64.71716) (xy 125.27067 64.77039) (xy 125.25084 64.82583)
+			 (xy 125.23653 64.88295) (xy 125.22789 64.94119) (xy 125.225 65) (xy 125.22789 65.05881)
+			 (xy 125.23653 65.11705) (xy 125.25084 65.17417) (xy 125.27067 65.22961) (xy 125.29585 65.28284)
+			 (xy 125.32612 65.33334) (xy 125.36119 65.38064) (xy 125.40074 65.42426) (xy 125.44436 65.46381)
+			 (xy 125.49166 65.49888) (xy 125.54216 65.52915) (xy 125.59539 65.55433) (xy 125.65083 65.57416)
+			 (xy 125.70795 65.58847) (xy 125.76619 65.59711) (xy 125.825 65.6) (xy 126.375 65.6))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Cu)
+	)
+	(gr_poly
+		(pts
+			 (xy 126.43381 67.59711) (xy 126.49205 67.58847) (xy 126.54917 67.57416)
+			 (xy 126.60461 67.55433) (xy 126.65784 67.52915) (xy 126.70834 67.49888) (xy 126.75564 67.46381)
+			 (xy 126.79926 67.42426) (xy 126.83881 67.38064) (xy 126.87388 67.33334) (xy 126.90415 67.28284)
+			 (xy 126.92933 67.22961) (xy 126.94916 67.17417) (xy 126.96347 67.11705) (xy 126.97211 67.05881)
+			 (xy 126.975 67) (xy 126.97211 66.94119) (xy 126.96347 66.88295) (xy 126.94916 66.82583)
+			 (xy 126.92933 66.77039) (xy 126.90415 66.71716) (xy 126.87388 66.66666) (xy 126.83881 66.61936)
+			 (xy 126.79926 66.57574) (xy 126.75564 66.53619) (xy 126.70834 66.50112) (xy 126.65784 66.47085)
+			 (xy 126.60461 66.44567) (xy 126.54917 66.42584) (xy 126.49205 66.41153) (xy 126.43381 66.40289)
+			 (xy 126.375 66.4) (xy 126.1 66.4) (xy 125.825 66.4) (xy 125.76619 66.40289)
+			 (xy 125.70795 66.41153) (xy 125.65083 66.42584) (xy 125.59539 66.44567) (xy 125.54216 66.47085)
+			 (xy 125.49166 66.50112) (xy 125.44436 66.53619) (xy 125.40074 66.57574) (xy 125.36119 66.61936)
+			 (xy 125.32612 66.66666) (xy 125.29585 66.71716) (xy 125.27067 66.77039) (xy 125.25084 66.82583)
+			 (xy 125.23653 66.88295) (xy 125.22789 66.94119) (xy 125.225 67) (xy 125.22789 67.05881)
+			 (xy 125.23653 67.11705) (xy 125.25084 67.17417) (xy 125.27067 67.22961) (xy 125.29585 67.28284)
+			 (xy 125.32612 67.33334) (xy 125.36119 67.38064) (xy 125.40074 67.42426) (xy 125.44436 67.46381)
+			 (xy 125.49166 67.49888) (xy 125.54216 67.52915) (xy 125.59539 67.55433) (xy 125.65083 67.57416)
+			 (xy 125.70795 67.58847) (xy 125.76619 67.59711) (xy 125.825 67.6) (xy 126.375 67.6))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Cu)
+	)
+	(gr_poly
+		(pts
+			 (xy 148.0995 68.2988) (xy 148.12377 68.2952) (xy 148.14757 68.28924)
+			 (xy 148.17067 68.28097) (xy 148.19285 68.27048) (xy 148.21389 68.25787) (xy 148.2336 68.24325)
+			 (xy 148.25178 68.22678) (xy 148.26825 68.2086) (xy 148.28287 68.18889) (xy 148.29548 68.16785)
+			 (xy 148.30597 68.14567) (xy 148.31424 68.12257) (xy 148.3202 68.09877) (xy 148.3238 68.0745)
+			 (xy 148.325 68.05) (xy 148.325 67.35) (xy 148.3238 67.3255) (xy 148.3202 67.30123)
+			 (xy 148.31424 67.27743) (xy 148.30597 67.25433) (xy 148.29548 67.23215) (xy 148.28287 67.21111)
+			 (xy 148.26825 67.1914) (xy 148.25178 67.17322) (xy 148.2336 67.15675) (xy 148.21389 67.14213)
+			 (xy 148.19285 67.12952) (xy 148.17067 67.11903) (xy 148.14757 67.11076) (xy 148.12377 67.1048)
+			 (xy 148.0995 67.1012) (xy 148.075 67.1) (xy 146.825 67.1) (xy 146.8005 67.1012)
+			 (xy 146.77623 67.1048) (xy 146.75243 67.11076) (xy 146.72933 67.11903) (xy 146.70715 67.12952)
+			 (xy 146.68611 67.14213) (xy 146.6664 67.15675) (xy 146.64822 67.17322) (xy 146.63175 67.1914)
+			 (xy 146.61713 67.21111) (xy 146.60452 67.23215) (xy 146.59403 67.25433) (xy 146.58576 67.27743)
+			 (xy 146.5798 67.30123) (xy 146.5762 67.3255) (xy 146.575 67.35) (xy 146.575 68.05)
+			 (xy 146.5762 68.0745) (xy 146.5798 68.09877) (xy 146.58576 68.12257) (xy 146.59403 68.14567)
+			 (xy 146.60452 68.16785) (xy 146.61713 68.18889) (xy 146.63175 68.2086) (xy 146.64822 68.22678)
+			 (xy 146.6664 68.24325) (xy 146.68611 68.25787) (xy 146.70715 68.27048) (xy 146.72933 68.28097)
+			 (xy 146.75243 68.28924) (xy 146.77623 68.2952) (xy 146.8005 68.2988) (xy 146.825 68.3)
+			 (xy 148.075 68.3))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Cu)
+	)
+	(gr_poly
+		(pts
+			 (xy 147.78381 66.29711) (xy 147.84205 66.28847) (xy 147.89917 66.27416)
+			 (xy 147.95461 66.25433) (xy 148.00784 66.22915) (xy 148.05834 66.19888) (xy 148.10564 66.16381)
+			 (xy 148.14926 66.12426) (xy 148.18881 66.08064) (xy 148.22388 66.03334) (xy 148.25415 65.98284)
+			 (xy 148.27933 65.92961) (xy 148.29916 65.87417) (xy 148.31347 65.81705) (xy 148.32211 65.75881)
+			 (xy 148.325 65.7) (xy 148.32211 65.64119) (xy 148.31347 65.58295) (xy 148.29916 65.52583)
+			 (xy 148.27933 65.47039) (xy 148.25415 65.41716) (xy 148.22388 65.36666) (xy 148.18881 65.31936)
+			 (xy 148.14926 65.27574) (xy 148.10564 65.23619) (xy 148.05834 65.20112) (xy 148.00784 65.17085)
+			 (xy 147.95461 65.14567) (xy 147.89917 65.12584) (xy 147.84205 65.11153) (xy 147.78381 65.10289)
+			 (xy 147.725 65.1) (xy 147.45 65.1) (xy 147.175 65.1) (xy 147.11619 65.10289)
+			 (xy 147.05795 65.11153) (xy 147.00083 65.12584) (xy 146.94539 65.14567) (xy 146.89216 65.17085)
+			 (xy 146.84166 65.20112) (xy 146.79436 65.23619) (xy 146.75074 65.27574) (xy 146.71119 65.31936)
+			 (xy 146.67612 65.36666) (xy 146.64585 65.41716) (xy 146.62067 65.47039) (xy 146.60084 65.52583)
+			 (xy 146.58653 65.58295) (xy 146.57789 65.64119) (xy 146.575 65.7) (xy 146.57789 65.75881)
+			 (xy 146.58653 65.81705) (xy 146.60084 65.87417) (xy 146.62067 65.92961) (xy 146.64585 65.98284)
+			 (xy 146.67612 66.03334) (xy 146.71119 66.08064) (xy 146.75074 66.12426) (xy 146.79436 66.16381)
+			 (xy 146.84166 66.19888) (xy 146.89216 66.22915) (xy 146.94539 66.25433) (xy 147.00083 66.27416)
+			 (xy 147.05795 66.28847) (xy 147.11619 66.29711) (xy 147.175 66.3) (xy 147.725 66.3))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Cu)
+	)
+	(gr_poly
+		(pts
+			 (xy 147.78381 64.29711) (xy 147.84205 64.28847) (xy 147.89917 64.27416)
+			 (xy 147.95461 64.25433) (xy 148.00784 64.22915) (xy 148.05834 64.19888) (xy 148.10564 64.16381)
+			 (xy 148.14926 64.12426) (xy 148.18881 64.08064) (xy 148.22388 64.03334) (xy 148.25415 63.98284)
+			 (xy 148.27933 63.92961) (xy 148.29916 63.87417) (xy 148.31347 63.81705) (xy 148.32211 63.75881)
+			 (xy 148.325 63.7) (xy 148.32211 63.64119) (xy 148.31347 63.58295) (xy 148.29916 63.52583)
+			 (xy 148.27933 63.47039) (xy 148.25415 63.41716) (xy 148.22388 63.36666) (xy 148.18881 63.31936)
+			 (xy 148.14926 63.27574) (xy 148.10564 63.23619) (xy 148.05834 63.20112) (xy 148.00784 63.17085)
+			 (xy 147.95461 63.14567) (xy 147.89917 63.12584) (xy 147.84205 63.11153) (xy 147.78381 63.10289)
+			 (xy 147.725 63.1) (xy 147.45 63.1) (xy 147.175 63.1) (xy 147.11619 63.10289)
+			 (xy 147.05795 63.11153) (xy 147.00083 63.12584) (xy 146.94539 63.14567) (xy 146.89216 63.17085)
+			 (xy 146.84166 63.20112) (xy 146.79436 63.23619) (xy 146.75074 63.27574) (xy 146.71119 63.31936)
+			 (xy 146.67612 63.36666) (xy 146.64585 63.41716) (xy 146.62067 63.47039) (xy 146.60084 63.52583)
+			 (xy 146.58653 63.58295) (xy 146.57789 63.64119) (xy 146.575 63.7) (xy 146.57789 63.75881)
+			 (xy 146.58653 63.81705) (xy 146.60084 63.87417) (xy 146.62067 63.92961) (xy 146.64585 63.98284)
+			 (xy 146.67612 64.03334) (xy 146.71119 64.08064) (xy 146.75074 64.12426) (xy 146.79436 64.16381)
+			 (xy 146.84166 64.19888) (xy 146.89216 64.22915) (xy 146.94539 64.25433) (xy 147.00083 64.27416)
+			 (xy 147.05795 64.28847) (xy 147.11619 64.29711) (xy 147.175 64.3) (xy 147.725 64.3))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Cu)
+	)
+	(gr_poly
+		(pts
+			 (xy 147.78381 62.29711) (xy 147.84205 62.28847) (xy 147.89917 62.27416)
+			 (xy 147.95461 62.25433) (xy 148.00784 62.22915) (xy 148.05834 62.19888) (xy 148.10564 62.16381)
+			 (xy 148.14926 62.12426) (xy 148.18881 62.08064) (xy 148.22388 62.03334) (xy 148.25415 61.98284)
+			 (xy 148.27933 61.92961) (xy 148.29916 61.87417) (xy 148.31347 61.81705) (xy 148.32211 61.75881)
+			 (xy 148.325 61.7) (xy 148.32211 61.64119) (xy 148.31347 61.58295) (xy 148.29916 61.52583)
+			 (xy 148.27933 61.47039) (xy 148.25415 61.41716) (xy 148.22388 61.36666) (xy 148.18881 61.31936)
+			 (xy 148.14926 61.27574) (xy 148.10564 61.23619) (xy 148.05834 61.20112) (xy 148.00784 61.17085)
+			 (xy 147.95461 61.14567) (xy 147.89917 61.12584) (xy 147.84205 61.11153) (xy 147.78381 61.10289)
+			 (xy 147.725 61.1) (xy 147.45 61.1) (xy 147.175 61.1) (xy 147.11619 61.10289)
+			 (xy 147.05795 61.11153) (xy 147.00083 61.12584) (xy 146.94539 61.14567) (xy 146.89216 61.17085)
+			 (xy 146.84166 61.20112) (xy 146.79436 61.23619) (xy 146.75074 61.27574) (xy 146.71119 61.31936)
+			 (xy 146.67612 61.36666) (xy 146.64585 61.41716) (xy 146.62067 61.47039) (xy 146.60084 61.52583)
+			 (xy 146.58653 61.58295) (xy 146.57789 61.64119) (xy 146.575 61.7) (xy 146.57789 61.75881)
+			 (xy 146.58653 61.81705) (xy 146.60084 61.87417) (xy 146.62067 61.92961) (xy 146.64585 61.98284)
+			 (xy 146.67612 62.03334) (xy 146.71119 62.08064) (xy 146.75074 62.12426) (xy 146.79436 62.16381)
+			 (xy 146.84166 62.19888) (xy 146.89216 62.22915) (xy 146.94539 62.25433) (xy 147.00083 62.27416)
+			 (xy 147.05795 62.28847) (xy 147.11619 62.29711) (xy 147.175 62.3) (xy 147.725 62.3))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Cu)
+	)
+	(gr_circle
+		(center 126.02 58.3) (end 126.82 58.3)
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Cu)
+	)
+	(gr_circle
+		(center 130 71.86) (end 130.8 71.86)
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Cu)
+	)
+	(gr_circle
+		(center 140.02 71.9) (end 140.82 71.9)
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Cu)
+	)
+	(gr_circle
+		(center 136.8 72.06) (end 137.6 72.06)
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Cu)
+	)
+	(gr_poly
+		(pts
+			 (xy 143.2745 63.6238) (xy 143.29877 63.6202) (xy 143.32257 63.61424)
+			 (xy 143.34567 63.60597) (xy 143.36785 63.59548) (xy 143.38889 63.58287) (xy 143.4086 63.56825)
+			 (xy 143.42678 63.55178) (xy 143.44325 63.5336) (xy 143.45787 63.51389) (xy 143.47048 63.49285)
+			 (xy 143.48097 63.47067) (xy 143.48924 63.44757) (xy 143.4952 63.42377) (xy 143.4988 63.3995)
+			 (xy 143.5 63.375) (xy 143.5 62.125) (xy 143.4988 62.1005) (xy 143.4952 62.07623)
+			 (xy 143.48924 62.05243) (xy 143.48097 62.02933) (xy 143.47048 62.00715) (xy 143.45787 61.98611)
+			 (xy 143.44325 61.9664) (xy 143.42678 61.94822) (xy 143.4086 61.93175) (xy 143.38889 61.91713)
+			 (xy 143.36785 61.90452) (xy 143.34567 61.89403) (xy 143.32257 61.88576) (xy 143.29877 61.8798)
+			 (xy 143.2745 61.8762) (xy 143.25 61.875) (xy 142.55 61.875) (xy 142.5255 61.8762)
+			 (xy 142.50123 61.8798) (xy 142.47743 61.88576) (xy 142.45433 61.89403) (xy 142.43215 61.90452)
+			 (xy 142.41111 61.91713) (xy 142.3914 61.93175) (xy 142.37322 61.94822) (xy 142.35675 61.9664)
+			 (xy 142.34213 61.98611) (xy 142.32952 62.00715) (xy 142.31903 62.02933) (xy 142.31076 62.05243)
+			 (xy 142.3048 62.07623) (xy 142.3012 62.1005) (xy 142.3 62.125) (xy 142.3 63.375)
+			 (xy 142.3012 63.3995) (xy 142.3048 63.42377) (xy 142.31076 63.44757) (xy 142.31903 63.47067)
+			 (xy 142.32952 63.49285) (xy 142.34213 63.51389) (xy 142.35675 63.5336) (xy 142.37322 63.55178)
+			 (xy 142.3914 63.56825) (xy 142.41111 63.58287) (xy 142.43215 63.59548) (xy 142.45433 63.60597)
+			 (xy 142.47743 63.61424) (xy 142.50123 63.6202) (xy 142.5255 63.6238) (xy 142.55 63.625)
+			 (xy 143.25 63.625))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Cu)
+	)
+	(gr_poly
+		(pts
+			 (xy 140.95881 63.62211) (xy 141.01705 63.61347) (xy 141.07417 63.59916)
+			 (xy 141.12961 63.57933) (xy 141.18284 63.55415) (xy 141.23334 63.52388) (xy 141.28064 63.48881)
+			 (xy 141.32426 63.44926) (xy 141.36381 63.40564) (xy 141.39888 63.35834) (xy 141.42915 63.30784)
+			 (xy 141.45433 63.25461) (xy 141.47416 63.19917) (xy 141.48847 63.14205) (xy 141.49711 63.08381)
+			 (xy 141.5 63.025) (xy 141.5 62.75) (xy 141.5 62.475) (xy 141.49711 62.41619)
+			 (xy 141.48847 62.35795) (xy 141.47416 62.30083) (xy 141.45433 62.24539) (xy 141.42915 62.19216)
+			 (xy 141.39888 62.14166) (xy 141.36381 62.09436) (xy 141.32426 62.05074) (xy 141.28064 62.01119)
+			 (xy 141.23334 61.97612) (xy 141.18284 61.94585) (xy 141.12961 61.92067) (xy 141.07417 61.90084)
+			 (xy 141.01705 61.88653) (xy 140.95881 61.87789) (xy 140.9 61.875) (xy 140.84119 61.87789)
+			 (xy 140.78295 61.88653) (xy 140.72583 61.90084) (xy 140.67039 61.92067) (xy 140.61716 61.94585)
+			 (xy 140.56666 61.97612) (xy 140.51936 62.01119) (xy 140.47574 62.05074) (xy 140.43619 62.09436)
+			 (xy 140.40112 62.14166) (xy 140.37085 62.19216) (xy 140.34567 62.24539) (xy 140.32584 62.30083)
+			 (xy 140.31153 62.35795) (xy 140.30289 62.41619) (xy 140.3 62.475) (xy 140.3 63.025)
+			 (xy 140.30289 63.08381) (xy 140.31153 63.14205) (xy 140.32584 63.19917) (xy 140.34567 63.25461)
+			 (xy 140.37085 63.30784) (xy 140.40112 63.35834) (xy 140.43619 63.40564) (xy 140.47574 63.44926)
+			 (xy 140.51936 63.48881) (xy 140.56666 63.52388) (xy 140.61716 63.55415) (xy 140.67039 63.57933)
+			 (xy 140.72583 63.59916) (xy 140.78295 63.61347) (xy 140.84119 63.62211) (xy 140.9 63.625))
+		(stroke (width 0) (type solid))
+		(fill yes) (layer B.Cu)
+	)
+	(segment (start 147.45 63.7) (end 144.9 63.7) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 141.3 66.4) (end 142.2 66.4) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 150.18 64.32) (end 150.18 71.9) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 150.2 64.3) (end 150.18 64.32) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 133.4 65.3) (end 136.8 61.9) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 144.9 63.7) (end 142.2 66.4) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 133.4 71.86) (end 133.4 65.3) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 149.6 63.7) (end 150.2 64.3) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 147.45 63.7) (end 149.6 63.7) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 136.8 61.9) (end 141.3 66.4) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 142.2 68.4) (end 144.75 68.4) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 130 71.86) (end 130 73) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 144.75 68.4) (end 147.45 65.7) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 130 73) (end 130.4 73.4) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 130.4 73.4) (end 135.46 73.4) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 140.46 68.4) (end 142.2 68.4) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 136.8 72.06) (end 140.46 68.4) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 135.46 73.4) (end 136.8 72.06) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 136.18 58.3) (end 133.4 61.08) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 136.18 58.3) (end 140.63 62.75) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 133.4 61.08) (end 133.4 61.7) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 140.63 62.75) (end 140.9 62.75) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 127.4 61.7) (end 126.1 63) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 126.02 58.3) (end 126.02 62.92) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 126.02 62.92) (end 126.1 63) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 130 61.7) (end 127.4 61.7) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 126.1 65) (end 125.2 65) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 127 65) (end 126.1 65) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 127.9 65.9) (end 127 65) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 129.5 73.9) (end 127.9 72.3) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 127.9 72.3) (end 127.9 65.9) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 140.02 71.9) (end 138.02 73.9) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 138.02 73.9) (end 129.5 73.9) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 126.1 71.9) (end 128.55 74.35) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 128.55 74.35) (end 140.8 74.35) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 126.1 67) (end 126.1 71.9) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 140.8 74.35) (end 147.45 67.7) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 147.45 61.7) (end 143.95 61.7) (width 0.25) (layer B.Cu) (net 0))
+	(segment (start 143.95 61.7) (end 142.9 62.75) (width 0.25) (layer B.Cu) (net 0))
+ (via (at 126.1 63) (size 0.75001) (drill 0.75) (layers F.Cu B.Cu))
+ (via (at 126.1 65) (size 0.75001) (drill 0.75) (layers F.Cu B.Cu))
+ (via (at 126.1 67) (size 0.75001) (drill 0.75) (layers F.Cu B.Cu))
+ (via (at 140.9 62.75) (size 0.75001) (drill 0.75) (layers F.Cu B.Cu))
+ (via (at 142.9 62.75) (size 0.75001) (drill 0.75) (layers F.Cu B.Cu))
+ (via (at 147.45 61.7) (size 0.75001) (drill 0.75) (layers F.Cu B.Cu))
+ (via (at 147.45 63.7) (size 0.75001) (drill 0.75) (layers F.Cu B.Cu))
+ (via (at 147.45 65.7) (size 0.75001) (drill 0.75) (layers F.Cu B.Cu))
+ (via (at 147.45 67.7) (size 0.75001) (drill 0.75) (layers F.Cu B.Cu))
+ (via (at 126.02 58.3) (size 0.80001) (drill 0.8) (layers F.Cu B.Cu))
+ (via (at 130 61.7) (size 1.6) (drill 0.8) (layers F.Cu B.Cu))
+ (via (at 130 71.86) (size 0.80001) (drill 0.8) (layers F.Cu B.Cu))
+ (via (at 136.18 58.3) (size 1.6) (drill 0.8) (layers F.Cu B.Cu))
+ (via (at 136.8 61.9) (size 1.6) (drill 0.8) (layers F.Cu B.Cu))
+ (via (at 136.8 72.06) (size 0.80001) (drill 0.8) (layers F.Cu B.Cu))
+ (via (at 140.02 71.9) (size 0.80001) (drill 0.8) (layers F.Cu B.Cu))
+ (via (at 142.2 66.4) (size 0.80001) (drill 0.8) (layers F.Cu B.Cu))
+ (via (at 142.2 68.4) (size 1.6) (drill 0.8) (layers F.Cu B.Cu))
+ (via (at 150.18 71.9) (size 1.6) (drill 0.8) (layers F.Cu B.Cu))
+ (via (at 133.4 61.7) (size 1.10001) (drill 1.1) (layers F.Cu B.Cu))
+ (via (at 133.4 71.86) (size 1.10001) (drill 1.1) (layers F.Cu B.Cu))
+)
