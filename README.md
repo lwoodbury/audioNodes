@@ -4,7 +4,7 @@ Raspberry Pi based Smart Speaker Network designed to run Pure Data patches for s
 - small and fairly powerful with good audio quality (I2S 3W amplifier)
 - contains a Lipo battery and manages charging via USB micro
 - has a smart power switch (safe shutdown and power off)
-- everything shared here under Creative Commons Attribution-ShareAlike 4.0 International License, the Raspberry Pi image *, laser cut designs, code and circuit designs. Go forth and prosper...
+- everything shared here under Creative Commons Attribution-ShareAlike 4.0 International License, the Raspberry Pi image *, laser cut designs, code and circuit designs. The safe shutdown circuitry and code are inspired by the NeonHorizon/lipopi repo which is covered by a GPL 3.0 licence. Go forth and prosper...
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
