@@ -1,0 +1,7 @@
+The power management circuit and code was inspired by NeonHorizon's 'lipopi' repo:
+https://github.com/NeonHorizon/lipopi
+
+Included here is a stripboard version and a PCB version, currently the case designs are based on the stripboard version. 
+
+Use the file here to make new PCBs; unfortunately the original version of the KiCad project was lost but you can make new gerbers from this one:
+..\circuits\powerManager\PCB files\Recovered_LiPoPiShutdown\LiPoPiShutdown.kicad_pcb
