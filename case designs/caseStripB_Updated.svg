@@ -10,7 +10,7 @@
    viewBox="0 0 80000 50000"
    id="svg1036"
    sodipodi:docname="caseUpdated.svg"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,16 +24,15 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    inkscape:document-units="mm"
-   inkscape:zoom="0.30719959"
-   inkscape:cx="1627.6063"
-   inkscape:cy="506.18557"
+   inkscape:zoom="2.4575967"
+   inkscape:cx="816.65148"
+   inkscape:cy="190.22649"
    inkscape:window-width="1920"
-   inkscape:window-height="1017"
+   inkscape:window-height="1057"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Layer2"
-   showgrid="false" />
+   inkscape:current-layer="Layer4" />
  <defs
    id="defs5"><rect
    x="2706.8967"
@@ -3949,7 +3948,10 @@
    cy="7304.7"
    r="211.67"
    id="circle401" />
-  </g>
+  <path
+   style="fill:#000000;stroke:#000000;stroke-width:2.64583"
+   d="M 19157.107,1642.0689 25251.702,7724.528"
+   id="path2" /></g>
   <g
    id="Layer3">
    <circle
@@ -3996,31 +3998,30 @@
   </g>
   
   <g
-   id="Layer2"
-   style="display:inline">
+   id="Layer2">
    <ellipse
    class="fil0 str5"
-   cx="4599.1099"
-   cy="4671.6001"
-   rx="3344.3401"
-   ry="3344.3301"
+   cx="4599.11"
+   cy="4671.6"
+   rx="3344.34"
+   ry="3344.33"
    id="ellipse1031" />
    <path
    class="fil1 str2"
-   d="m 7257.63,7761.94 c 0,0 -1989.67,270.93 -2658.54,270.93 -668.86,0 -2658.53,-270.93 -2658.53,-270.93 -237.07,0 -431.8,-194.73 -431.8,-431.8 0,0 -270.93,-1989.67 -270.93,-2658.53 0,-668.87 270.93,-2658.54 270.93,-2658.54 0,-237.06 194.73,-431.8 431.8,-431.8 0,0 1989.67,-270.93 2658.53,-270.93 668.87,0 2658.54,270.93 2658.54,270.93 237.06,0 431.8,194.74 431.8,431.8 0,0 270.93,1989.67 270.93,2658.54 0,668.86 -270.93,2658.53 -270.93,2658.53 0,237.07 -194.74,431.8 -431.8,431.8 z"
+   d="M7257.63 7761.94c0,0 -1989.67,270.93 -2658.54,270.93 -668.86,0 -2658.53,-270.93 -2658.53,-270.93 -237.07,0 -431.8,-194.73 -431.8,-431.8 0,0 -270.93,-1989.67 -270.93,-2658.53 0,-668.87 270.93,-2658.54 270.93,-2658.54 0,-237.06 194.73,-431.8 431.8,-431.8 0,0 1989.67,-270.93 2658.53,-270.93 668.87,0 2658.54,270.93 2658.54,270.93 237.06,0 431.8,194.74 431.8,431.8 0,0 270.93,1989.67 270.93,2658.54 0,668.86 -270.93,2658.53 -270.93,2658.53 0,237.07 -194.74,431.8 -431.8,431.8z"
    id="path1032" />
    <circle
    class="fil0 str1"
-   cx="4620.2998"
-   cy="4667.3701"
-   r="4305.2998"
+   cx="4620.3"
+   cy="4667.37"
+   r="4305.3"
    id="circle1032" />
    <ellipse
    class="fil0 str1"
-   cx="4599.1099"
-   cy="4671.6001"
-   rx="3344.3401"
-   ry="3344.3301"
+   cx="4599.11"
+   cy="4671.6"
+   rx="3344.34"
+   ry="3344.33"
    id="ellipse1032" />
    <ellipse
    class="fil0 str1"
@@ -4031,32 +4032,26 @@
    id="ellipse1033" />
    <ellipse
    class="fil0 str1"
-   cx="7249.1401"
+   cx="7249.14"
    cy="2038.47"
-   rx="211.67999"
+   rx="211.68"
    ry="211.62"
    id="ellipse1034" />
    <ellipse
    class="fil0 str1"
-   cx="1982.9399"
-   cy="7304.7402"
+   cx="1982.94"
+   cy="7304.74"
    rx="211.66"
    ry="211.62"
    id="ellipse1035" />
    <ellipse
    class="fil0 str1"
-   cx="7249.1401"
-   cy="7304.7402"
-   rx="211.67999"
+   cx="7249.14"
+   cy="7304.74"
+   rx="211.68"
    ry="211.62"
    id="ellipse1036" />
-  <circle
-   class="fil3 str6"
-   cx="4599.1001"
-   cy="4671.6099"
-   r="3305.71"
-   id="circle1036"
-   style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /></g><g
+  </g><g
    id="Layer1"
    style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;fill-rule:evenodd;clip-rule:evenodd">
    <g
@@ -10081,6 +10076,11 @@
    d="M76160.48 28515.22c0,-115.98 94.02,-210 210,-210 115.98,0 210,94.02 210,210 0,115.98 -94.02,210 -210,210 -115.98,0 -210,-94.02 -210,-210z"
    id="path1031" />
   </g>
-  
+  <circle
+   class="fil3 str6"
+   cx="4599.1"
+   cy="4671.61"
+   r="3305.71"
+   id="circle1036" />
  </g>
 </svg>
