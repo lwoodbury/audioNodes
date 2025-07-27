@@ -24,15 +24,16 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    inkscape:document-units="mm"
-   inkscape:zoom="0.43444583"
-   inkscape:cx="1511.1205"
-   inkscape:cy="944.88189"
+   inkscape:zoom="0.30719959"
+   inkscape:cx="1627.6063"
+   inkscape:cy="506.18557"
    inkscape:window-width="1920"
    inkscape:window-height="1017"
    inkscape:window-x="-8"
    inkscape:window-y="-8"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_x0020_1" />
+   inkscape:current-layer="Layer2"
+   showgrid="false" />
  <defs
    id="defs5"><rect
    x="2706.8967"
@@ -3525,9 +3526,9 @@
    style="font-size:48px;white-space:pre;shape-inside:url(#rect1036-5);clip-rule:evenodd;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
      x="2706.8965"
      y="1337.3934"
-     id="tspan4"><tspan
+     id="tspan2"><tspan
        style="font-size:32px"
-       id="tspan3">FROSTED</tspan></tspan></text></g>
+       id="tspan1">FROSTED</tspan></tspan></text></g>
   <g
    id="Layer13">
    <circle
@@ -3578,9 +3579,9 @@
    style="font-size:48px;white-space:pre;shape-inside:url(#rect1036);fill:#000000"><tspan
      x="2706.8965"
      y="1337.3934"
-     id="tspan6"><tspan
+     id="tspan4"><tspan
        style="font-size:32px"
-       id="tspan5">FROSTED</tspan></tspan></text></g>
+       id="tspan3">FROSTED</tspan></tspan></text></g>
   <g
    id="Layer12">
    <path
@@ -3995,30 +3996,31 @@
   </g>
   
   <g
-   id="Layer2">
+   id="Layer2"
+   style="display:inline">
    <ellipse
    class="fil0 str5"
-   cx="4599.11"
-   cy="4671.6"
-   rx="3344.34"
-   ry="3344.33"
+   cx="4599.1099"
+   cy="4671.6001"
+   rx="3344.3401"
+   ry="3344.3301"
    id="ellipse1031" />
    <path
    class="fil1 str2"
-   d="M7257.63 7761.94c0,0 -1989.67,270.93 -2658.54,270.93 -668.86,0 -2658.53,-270.93 -2658.53,-270.93 -237.07,0 -431.8,-194.73 -431.8,-431.8 0,0 -270.93,-1989.67 -270.93,-2658.53 0,-668.87 270.93,-2658.54 270.93,-2658.54 0,-237.06 194.73,-431.8 431.8,-431.8 0,0 1989.67,-270.93 2658.53,-270.93 668.87,0 2658.54,270.93 2658.54,270.93 237.06,0 431.8,194.74 431.8,431.8 0,0 270.93,1989.67 270.93,2658.54 0,668.86 -270.93,2658.53 -270.93,2658.53 0,237.07 -194.74,431.8 -431.8,431.8z"
+   d="m 7257.63,7761.94 c 0,0 -1989.67,270.93 -2658.54,270.93 -668.86,0 -2658.53,-270.93 -2658.53,-270.93 -237.07,0 -431.8,-194.73 -431.8,-431.8 0,0 -270.93,-1989.67 -270.93,-2658.53 0,-668.87 270.93,-2658.54 270.93,-2658.54 0,-237.06 194.73,-431.8 431.8,-431.8 0,0 1989.67,-270.93 2658.53,-270.93 668.87,0 2658.54,270.93 2658.54,270.93 237.06,0 431.8,194.74 431.8,431.8 0,0 270.93,1989.67 270.93,2658.54 0,668.86 -270.93,2658.53 -270.93,2658.53 0,237.07 -194.74,431.8 -431.8,431.8 z"
    id="path1032" />
    <circle
    class="fil0 str1"
-   cx="4620.3"
-   cy="4667.37"
-   r="4305.3"
+   cx="4620.2998"
+   cy="4667.3701"
+   r="4305.2998"
    id="circle1032" />
    <ellipse
    class="fil0 str1"
-   cx="4599.11"
-   cy="4671.6"
-   rx="3344.34"
-   ry="3344.33"
+   cx="4599.1099"
+   cy="4671.6001"
+   rx="3344.3401"
+   ry="3344.3301"
    id="ellipse1032" />
    <ellipse
    class="fil0 str1"
@@ -4029,26 +4031,32 @@
    id="ellipse1033" />
    <ellipse
    class="fil0 str1"
-   cx="7249.14"
+   cx="7249.1401"
    cy="2038.47"
-   rx="211.68"
+   rx="211.67999"
    ry="211.62"
    id="ellipse1034" />
    <ellipse
    class="fil0 str1"
-   cx="1982.94"
-   cy="7304.74"
+   cx="1982.9399"
+   cy="7304.7402"
    rx="211.66"
    ry="211.62"
    id="ellipse1035" />
    <ellipse
    class="fil0 str1"
-   cx="7249.14"
-   cy="7304.74"
-   rx="211.68"
+   cx="7249.1401"
+   cy="7304.7402"
+   rx="211.67999"
    ry="211.62"
    id="ellipse1036" />
-  </g><g
+  <circle
+   class="fil3 str6"
+   cx="4599.1001"
+   cy="4671.6099"
+   r="3305.71"
+   id="circle1036"
+   style="clip-rule:evenodd;display:inline;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" /></g><g
    id="Layer1"
    style="shape-rendering:geometricPrecision;text-rendering:geometricPrecision;image-rendering:optimizeQuality;fill-rule:evenodd;clip-rule:evenodd">
    <g
@@ -10073,11 +10081,6 @@
    d="M76160.48 28515.22c0,-115.98 94.02,-210 210,-210 115.98,0 210,94.02 210,210 0,115.98 -94.02,210 -210,210 -115.98,0 -210,-94.02 -210,-210z"
    id="path1031" />
   </g>
-  <circle
-   class="fil3 str6"
-   cx="4599.1"
-   cy="4671.61"
-   r="3305.71"
-   id="circle1036" />
+  
  </g>
 </svg>
