@@ -24,13 +24,13 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#d1d1d1"
    inkscape:document-units="mm"
-   inkscape:zoom="0.35355339"
-   inkscape:cx="1207.7384"
-   inkscape:cy="654.78088"
+   inkscape:zoom="0.2645059"
+   inkscape:cx="790.15249"
+   inkscape:cy="947.0488"
    inkscape:window-width="1920"
-   inkscape:window-height="1017"
-   inkscape:window-x="-8"
-   inkscape:window-y="-8"
+   inkscape:window-height="991"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
    inkscape:window-maximized="1"
    inkscape:current-layer="Layer_x0020_1"
    showgrid="false" />
@@ -3225,7 +3225,7 @@
    y="20639.838" /></g>
   <g
    id="Layer21"
-   transform="translate(70470.834,-8891.5955)"
+   transform="translate(70479.446,-8927.0647)"
    style="display:inline">
    <path
    class="fil0 str1"
@@ -3270,7 +3270,7 @@
    y="20634.023" /></g>
   <g
    id="Layer20"
-   transform="translate(-8769.7929)">
+   transform="translate(-8761.1809,-35.469214)">
    <circle
    class="fil0 str3"
    cx="74950"
@@ -3310,7 +3310,7 @@
   </g>
   <g
    id="Layer19"
-   transform="translate(-8769.7929)">
+   transform="translate(-8761.1809,-35.469214)">
    <circle
    class="fil0 str3"
    cx="66150"
@@ -3349,7 +3349,7 @@
   </g>
   <g
    id="Layer18"
-   transform="translate(-8769.7929)">
+   transform="translate(-8761.1809,-35.469214)">
    <circle
    class="fil0 str3"
    cx="57350"
@@ -3388,7 +3388,7 @@
   </g>
   <g
    id="Layer17"
-   transform="translate(-8769.7929)">
+   transform="translate(-8761.1809,-35.469214)">
    <circle
    class="fil0 str3"
    cx="48550"
@@ -3436,50 +3436,10 @@
    height="1256.09"
    id="rect344" />
   </g>
-  <g
-   id="Layer16"
-   transform="translate(-8769.7929)">
-   <circle
-   class="fil0 str4"
-   cx="39729.629"
-   cy="13474.28"
-   r="3342.6599"
-   id="circle344" />
-   <circle
-   class="fil0 str4"
-   cx="39750"
-   cy="13484.65"
-   r="4305"
-   id="circle345" />
-   <circle
-   class="fil0 str4"
-   cx="37116.328"
-   cy="10840.61"
-   r="212.62"
-   id="circle346" />
-   <circle
-   class="fil0 str4"
-   cx="42383.672"
-   cy="10840.61"
-   r="212.62"
-   id="circle347" />
-   <ellipse
-   class="fil0 str4"
-   cx="37116.328"
-   cy="16108.31"
-   rx="212.27"
-   ry="212.62"
-   id="ellipse347" />
-   <circle
-   class="fil0 str4"
-   cx="42383.672"
-   cy="16108.31"
-   r="212.62"
-   id="circle348" />
-  </g>
+  
   <g
    id="Layer15"
-   transform="translate(-8769.7929)">
+   transform="translate(80.923257,-31.936596)">
    <path
    class="fil0 str1"
    d="m 26644.82,13511.2 c 0,-2089.42 1488.36,-3831.15 3463.08,-4222.81 15.37,-3.21 80.05,667.89 80.05,667.89 h 1498.01 c 0,0 66.11,-675.75 82.19,-672.54 1986.51,382.01 3487.02,2129.45 3487.02,4227.46 0,2004.74 -1370.08,3689.29 -3225.08,4168.49 -13.23,3.22 0,0 0,0 l 1.43,-187.61 h -2144.46 v 191.9 c 0,0 13.58,3.58 0,0 -1863.94,-473.13 -3242.24,-2161.97 -3242.24,-4172.78 z"
@@ -3558,9 +3518,9 @@
    style="font-size:48px;white-space:pre;shape-inside:url(#rect1036-5);clip-rule:evenodd;display:inline;fill:#000000;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"><tspan
      x="2706.8965"
      y="1337.3934"
-     id="tspan6"><tspan
+     id="tspan2"><tspan
        style="font-size:32px"
-       id="tspan5">FROSTED</tspan></tspan></text></g>
+       id="tspan1">FROSTED</tspan></tspan></text></g>
   <g
    id="Layer13">
    <circle
@@ -3611,9 +3571,9 @@
    style="font-size:48px;white-space:pre;shape-inside:url(#rect1036);display:inline;fill:#000000"><tspan
      x="2706.8965"
      y="1337.3934"
-     id="tspan8"><tspan
+     id="tspan4"><tspan
        style="font-size:32px"
-       id="tspan7">FROSTED</tspan></tspan></text></g>
+       id="tspan3">FROSTED</tspan></tspan></text></g>
   <g
    id="Layer12">
    <path
