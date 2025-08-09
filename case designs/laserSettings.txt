@@ -1,0 +1,4 @@
+Trotec Speedy 360
+
+Cut: P 100 V 1.5
+Deep engrave 1mm: P 50 V 34
